@@ -7,7 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */; };
+		02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */; };
+		02BF5B132A79356000BE650C /* AdditionOfFractions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B122A79356000BE650C /* AdditionOfFractions.swift */; };
+		02BF5B152A7935BD00BE650C /* MakeDoubleArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B142A7935BD00BE650C /* MakeDoubleArray.swift */; };
 		02F31B742A189E1B00312152 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F31B732A189E1B00312152 /* main.swift */; };
+		02F31B812A18A1D500312152 /* FourArithmeticOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F31B802A18A1D500312152 /* FourArithmeticOperations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +28,13 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoNumbers.swift; sourceTree = "<group>"; };
+		02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareTwoNumbers.swift; sourceTree = "<group>"; };
+		02BF5B122A79356000BE650C /* AdditionOfFractions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdditionOfFractions.swift; sourceTree = "<group>"; };
+		02BF5B142A7935BD00BE650C /* MakeDoubleArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeDoubleArray.swift; sourceTree = "<group>"; };
 		02F31B702A189E1B00312152 /* Programmers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Programmers; sourceTree = BUILT_PRODUCTS_DIR; };
 		02F31B732A189E1B00312152 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		02F31B802A18A1D500312152 /* FourArithmeticOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourArithmeticOperations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +48,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		02BF5B0D2A7933A200BE650C /* Day02 */ = {
+			isa = PBXGroup;
+			children = (
+				02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */,
+				02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */,
+				02BF5B122A79356000BE650C /* AdditionOfFractions.swift */,
+				02BF5B142A7935BD00BE650C /* MakeDoubleArray.swift */,
+			);
+			path = Day02;
+			sourceTree = "<group>";
+		};
 		02F31B672A189E1B00312152 = {
 			isa = PBXGroup;
 			children = (
@@ -58,8 +79,26 @@
 			isa = PBXGroup;
 			children = (
 				02F31B732A189E1B00312152 /* main.swift */,
+				02F31B7A2A189E2100312152 /* LevelZero */,
 			);
 			path = Programmers;
+			sourceTree = "<group>";
+		};
+		02F31B7A2A189E2100312152 /* LevelZero */ = {
+			isa = PBXGroup;
+			children = (
+				02BF5B0D2A7933A200BE650C /* Day02 */,
+				02F31B7D2A189F0600312152 /* Day01 */,
+			);
+			path = LevelZero;
+			sourceTree = "<group>";
+		};
+		02F31B7D2A189F0600312152 /* Day01 */ = {
+			isa = PBXGroup;
+			children = (
+				02F31B802A18A1D500312152 /* FourArithmeticOperations.swift */,
+			);
+			path = Day01;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -121,6 +160,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				02F31B742A189E1B00312152 /* main.swift in Sources */,
+				02F31B812A18A1D500312152 /* FourArithmeticOperations.swift in Sources */,
+				02BF5B152A7935BD00BE650C /* MakeDoubleArray.swift in Sources */,
+				02BF5B132A79356000BE650C /* AdditionOfFractions.swift in Sources */,
+				02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */,
+				02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
