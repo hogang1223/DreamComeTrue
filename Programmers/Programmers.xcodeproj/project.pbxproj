@@ -15,6 +15,8 @@
 		02BF5B1A2A7938B200BE650C /* GetCenterValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B192A7938B200BE650C /* GetCenterValue.swift */; };
 		02BF5B1C2A7938F400BE650C /* FindTheMostFrequentValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B1B2A7938F400BE650C /* FindTheMostFrequentValue.swift */; };
 		02BF5B1E2A79392B00BE650C /* IHateEvenNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B1D2A79392B00BE650C /* IHateEvenNumber.swift */; };
+		02BF5B212A79398F00BE650C /* SharePizza.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B202A79398F00BE650C /* SharePizza.swift */; };
+		02BF5B232A793A2F00BE650C /* AverageOfArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B222A793A2F00BE650C /* AverageOfArray.swift */; };
 		02F31B742A189E1B00312152 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F31B732A189E1B00312152 /* main.swift */; };
 		02F31B812A18A1D500312152 /* FourArithmeticOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F31B802A18A1D500312152 /* FourArithmeticOperations.swift */; };
 /* End PBXBuildFile section */
@@ -40,6 +42,8 @@
 		02BF5B192A7938B200BE650C /* GetCenterValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetCenterValue.swift; sourceTree = "<group>"; };
 		02BF5B1B2A7938F400BE650C /* FindTheMostFrequentValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindTheMostFrequentValue.swift; sourceTree = "<group>"; };
 		02BF5B1D2A79392B00BE650C /* IHateEvenNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IHateEvenNumber.swift; sourceTree = "<group>"; };
+		02BF5B202A79398F00BE650C /* SharePizza.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharePizza.swift; sourceTree = "<group>"; };
+		02BF5B222A793A2F00BE650C /* AverageOfArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AverageOfArray.swift; sourceTree = "<group>"; };
 		02F31B702A189E1B00312152 /* Programmers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Programmers; sourceTree = BUILT_PRODUCTS_DIR; };
 		02F31B732A189E1B00312152 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		02F31B802A18A1D500312152 /* FourArithmeticOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourArithmeticOperations.swift; sourceTree = "<group>"; };
@@ -78,6 +82,15 @@
 			path = Day03;
 			sourceTree = "<group>";
 		};
+		02BF5B1F2A79397C00BE650C /* Day04 */ = {
+			isa = PBXGroup;
+			children = (
+				02BF5B202A79398F00BE650C /* SharePizza.swift */,
+				02BF5B222A793A2F00BE650C /* AverageOfArray.swift */,
+			);
+			path = Day04;
+			sourceTree = "<group>";
+		};
 		02F31B672A189E1B00312152 = {
 			isa = PBXGroup;
 			children = (
@@ -106,6 +119,7 @@
 		02F31B7A2A189E2100312152 /* LevelZero */ = {
 			isa = PBXGroup;
 			children = (
+				02BF5B1F2A79397C00BE650C /* Day04 */,
 				02BF5B162A79386300BE650C /* Day03 */,
 				02BF5B0D2A7933A200BE650C /* Day02 */,
 				02F31B7D2A189F0600312152 /* Day01 */,
@@ -185,8 +199,10 @@
 				02BF5B1C2A7938F400BE650C /* FindTheMostFrequentValue.swift in Sources */,
 				02BF5B152A7935BD00BE650C /* MakeDoubleArray.swift in Sources */,
 				02BF5B132A79356000BE650C /* AdditionOfFractions.swift in Sources */,
+				02BF5B232A793A2F00BE650C /* AverageOfArray.swift in Sources */,
 				02BF5B1A2A7938B200BE650C /* GetCenterValue.swift in Sources */,
 				02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */,
+				02BF5B212A79398F00BE650C /* SharePizza.swift in Sources */,
 				02BF5B1E2A79392B00BE650C /* IHateEvenNumber.swift in Sources */,
 				02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */,
 			);
