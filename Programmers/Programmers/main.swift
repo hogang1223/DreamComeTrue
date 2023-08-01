@@ -6,3 +6,6 @@
 //
 
 import Foundation
+
+let result = solution("hello", "ohell")
+print(result)
