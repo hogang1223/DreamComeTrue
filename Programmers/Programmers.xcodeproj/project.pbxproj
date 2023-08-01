@@ -21,6 +21,10 @@
 		02BF5B282A793AEF00BE650C /* IceAmericano.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B272A793AEF00BE650C /* IceAmericano.swift */; };
 		02BF5B2A2A793B3600BE650C /* PrintAge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B292A793B3600BE650C /* PrintAge.swift */; };
 		02BF5B2C2A793B6E00BE650C /* ReversedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B2B2A793B6E00BE650C /* ReversedArray.swift */; };
+		02BF5B2F2A793BCF00BE650C /* ReversedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B2E2A793BCF00BE650C /* ReversedString.swift */; };
+		02BF5B312A793C0900BE650C /* PrintRightTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B302A793C0900BE650C /* PrintRightTriangle.swift */; };
+		02BF5B332A793C8900BE650C /* EvenOddCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B322A793C8900BE650C /* EvenOddCount.swift */; };
+		02BF5B352A793CC800BE650C /* PrintStringRepeating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B342A793CC800BE650C /* PrintStringRepeating.swift */; };
 		02F31B742A189E1B00312152 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F31B732A189E1B00312152 /* main.swift */; };
 		02F31B812A18A1D500312152 /* FourArithmeticOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F31B802A18A1D500312152 /* FourArithmeticOperations.swift */; };
 /* End PBXBuildFile section */
@@ -52,6 +56,10 @@
 		02BF5B272A793AEF00BE650C /* IceAmericano.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IceAmericano.swift; sourceTree = "<group>"; };
 		02BF5B292A793B3600BE650C /* PrintAge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrintAge.swift; sourceTree = "<group>"; };
 		02BF5B2B2A793B6E00BE650C /* ReversedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReversedArray.swift; sourceTree = "<group>"; };
+		02BF5B2E2A793BCF00BE650C /* ReversedString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReversedString.swift; sourceTree = "<group>"; };
+		02BF5B302A793C0900BE650C /* PrintRightTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrintRightTriangle.swift; sourceTree = "<group>"; };
+		02BF5B322A793C8900BE650C /* EvenOddCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvenOddCount.swift; sourceTree = "<group>"; };
+		02BF5B342A793CC800BE650C /* PrintStringRepeating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrintStringRepeating.swift; sourceTree = "<group>"; };
 		02F31B702A189E1B00312152 /* Programmers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Programmers; sourceTree = BUILT_PRODUCTS_DIR; };
 		02F31B732A189E1B00312152 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		02F31B802A18A1D500312152 /* FourArithmeticOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourArithmeticOperations.swift; sourceTree = "<group>"; };
@@ -110,6 +118,17 @@
 			path = Day05;
 			sourceTree = "<group>";
 		};
+		02BF5B2D2A793BB700BE650C /* Day06 */ = {
+			isa = PBXGroup;
+			children = (
+				02BF5B2E2A793BCF00BE650C /* ReversedString.swift */,
+				02BF5B302A793C0900BE650C /* PrintRightTriangle.swift */,
+				02BF5B322A793C8900BE650C /* EvenOddCount.swift */,
+				02BF5B342A793CC800BE650C /* PrintStringRepeating.swift */,
+			);
+			path = Day06;
+			sourceTree = "<group>";
+		};
 		02F31B672A189E1B00312152 = {
 			isa = PBXGroup;
 			children = (
@@ -138,6 +157,7 @@
 		02F31B7A2A189E2100312152 /* LevelZero */ = {
 			isa = PBXGroup;
 			children = (
+				02BF5B2D2A793BB700BE650C /* Day06 */,
 				02BF5B242A793A8500BE650C /* Day05 */,
 				02BF5B1F2A79397C00BE650C /* Day04 */,
 				02BF5B162A79386300BE650C /* Day03 */,
@@ -213,19 +233,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				02BF5B2F2A793BCF00BE650C /* ReversedString.swift in Sources */,
 				02BF5B262A793AB100BE650C /* DiscountClothingStore.swift in Sources */,
 				02F31B742A189E1B00312152 /* main.swift in Sources */,
 				02F31B812A18A1D500312152 /* FourArithmeticOperations.swift in Sources */,
+				02BF5B312A793C0900BE650C /* PrintRightTriangle.swift in Sources */,
 				02BF5B282A793AEF00BE650C /* IceAmericano.swift in Sources */,
 				02BF5B182A79388300BE650C /* GetTheRemainder.swift in Sources */,
 				02BF5B1C2A7938F400BE650C /* FindTheMostFrequentValue.swift in Sources */,
 				02BF5B152A7935BD00BE650C /* MakeDoubleArray.swift in Sources */,
 				02BF5B132A79356000BE650C /* AdditionOfFractions.swift in Sources */,
 				02BF5B232A793A2F00BE650C /* AverageOfArray.swift in Sources */,
+				02BF5B332A793C8900BE650C /* EvenOddCount.swift in Sources */,
 				02BF5B2A2A793B3600BE650C /* PrintAge.swift in Sources */,
 				02BF5B1A2A7938B200BE650C /* GetCenterValue.swift in Sources */,
 				02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */,
 				02BF5B212A79398F00BE650C /* SharePizza.swift in Sources */,
+				02BF5B352A793CC800BE650C /* PrintStringRepeating.swift in Sources */,
 				02BF5B2C2A793B6E00BE650C /* ReversedArray.swift in Sources */,
 				02BF5B1E2A79392B00BE650C /* IHateEvenNumber.swift in Sources */,
 				02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */,
