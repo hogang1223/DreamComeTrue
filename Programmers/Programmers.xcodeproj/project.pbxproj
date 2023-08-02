@@ -23,6 +23,10 @@
 		02ABE9C52A7A0F3200B10E0F /* MakeTwoDimensional.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9C42A7A0F3200B10E0F /* MakeTwoDimensional.swift */; };
 		02ABE9C72A7A0F4600B10E0F /* ThrowBall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9C62A7A0F4600B10E0F /* ThrowBall.swift */; };
 		02ABE9C92A7A0F5D00B10E0F /* RotateArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9C82A7A0F5D00B10E0F /* RotateArray.swift */; };
+		02ABE9CB2A7A0FE700B10E0F /* DiceCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9CA2A7A0FE700B10E0F /* DiceCount.swift */; };
+		02ABE9CD2A7A100000B10E0F /* FindCompositNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9CC2A7A100000B10E0F /* FindCompositNumber.swift */; };
+		02ABE9CF2A7A100E00B10E0F /* MakeMaxNumber1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9CE2A7A100E00B10E0F /* MakeMaxNumber1.swift */; };
+		02ABE9D12A7A101600B10E0F /* Factorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9D02A7A101600B10E0F /* Factorial.swift */; };
 		02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */; };
 		02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */; };
 		02BF5B132A79356000BE650C /* AdditionOfFractions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B122A79356000BE650C /* AdditionOfFractions.swift */; };
@@ -76,6 +80,10 @@
 		02ABE9C42A7A0F3200B10E0F /* MakeTwoDimensional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeTwoDimensional.swift; sourceTree = "<group>"; };
 		02ABE9C62A7A0F4600B10E0F /* ThrowBall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThrowBall.swift; sourceTree = "<group>"; };
 		02ABE9C82A7A0F5D00B10E0F /* RotateArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateArray.swift; sourceTree = "<group>"; };
+		02ABE9CA2A7A0FE700B10E0F /* DiceCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiceCount.swift; sourceTree = "<group>"; };
+		02ABE9CC2A7A100000B10E0F /* FindCompositNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindCompositNumber.swift; sourceTree = "<group>"; };
+		02ABE9CE2A7A100E00B10E0F /* MakeMaxNumber1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeMaxNumber1.swift; sourceTree = "<group>"; };
+		02ABE9D02A7A101600B10E0F /* Factorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Factorial.swift; sourceTree = "<group>"; };
 		02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoNumbers.swift; sourceTree = "<group>"; };
 		02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareTwoNumbers.swift; sourceTree = "<group>"; };
 		02BF5B122A79356000BE650C /* AdditionOfFractions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdditionOfFractions.swift; sourceTree = "<group>"; };
@@ -159,6 +167,10 @@
 		02ABE9A82A7A0AD000B10E0F /* Day11 */ = {
 			isa = PBXGroup;
 			children = (
+				02ABE9CA2A7A0FE700B10E0F /* DiceCount.swift */,
+				02ABE9CC2A7A100000B10E0F /* FindCompositNumber.swift */,
+				02ABE9CE2A7A100E00B10E0F /* MakeMaxNumber1.swift */,
+				02ABE9D02A7A101600B10E0F /* Factorial.swift */,
 			);
 			path = Day11;
 			sourceTree = "<group>";
@@ -358,6 +370,7 @@
 				02BF5B382A793DF300BE650C /* CuttingPaper.swift in Sources */,
 				02BF5B152A7935BD00BE650C /* MakeDoubleArray.swift in Sources */,
 				02ABE9B72A7A0CBE00B10E0F /* SetTheOrderOfCare.swift in Sources */,
+				02ABE9D12A7A101600B10E0F /* Factorial.swift in Sources */,
 				02BF5B132A79356000BE650C /* AdditionOfFractions.swift in Sources */,
 				02ABE9C92A7A0F5D00B10E0F /* RotateArray.swift in Sources */,
 				02BF5B232A793A2F00BE650C /* AverageOfArray.swift in Sources */,
@@ -367,8 +380,11 @@
 				02ABE9C32A7A0F0800B10E0F /* getCoordinatesOfPoint.swift in Sources */,
 				02ABE9C72A7A0F4600B10E0F /* ThrowBall.swift in Sources */,
 				02BF5B2A2A793B3600BE650C /* PrintAge.swift in Sources */,
+				02ABE9CF2A7A100E00B10E0F /* MakeMaxNumber1.swift in Sources */,
 				02ABE9C52A7A0F3200B10E0F /* MakeTwoDimensional.swift in Sources */,
+				02ABE9CB2A7A0FE700B10E0F /* DiceCount.swift in Sources */,
 				02BF5B1A2A7938B200BE650C /* GetCenterValue.swift in Sources */,
+				02ABE9CD2A7A100000B10E0F /* FindCompositNumber.swift in Sources */,
 				02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */,
 				02BF5B212A79398F00BE650C /* SharePizza.swift in Sources */,
 				02BF5B352A793CC800BE650C /* PrintStringRepeating.swift in Sources */,
