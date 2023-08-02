@@ -15,6 +15,10 @@
 		02ABE9B52A7A0C7B00B10E0F /* AgeOfExtraterrestrialPlanet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9B42A7A0C7B00B10E0F /* AgeOfExtraterrestrialPlanet.swift */; };
 		02ABE9B72A7A0CBE00B10E0F /* SetTheOrderOfCare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9B62A7A0CBE00B10E0F /* SetTheOrderOfCare.swift */; };
 		02ABE9B92A7A0D1200B10E0F /* OrderedPairCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9B82A7A0D1200B10E0F /* OrderedPairCount.swift */; };
+		02ABE9BB2A7A0D8B00B10E0F /* AntsArmy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9BA2A7A0D8B00B10E0F /* AntsArmy.swift */; };
+		02ABE9BD2A7A0DAB00B10E0F /* MorseCode1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9BC2A7A0DAB00B10E0F /* MorseCode1.swift */; };
+		02ABE9BF2A7A0DC700B10E0F /* RockPaperScissors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9BE2A7A0DC700B10E0F /* RockPaperScissors.swift */; };
+		02ABE9C12A7A0DF800B10E0F /* CaseOfShareBeads.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9C02A7A0DF800B10E0F /* CaseOfShareBeads.swift */; };
 		02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */; };
 		02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */; };
 		02BF5B132A79356000BE650C /* AdditionOfFractions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B122A79356000BE650C /* AdditionOfFractions.swift */; };
@@ -60,6 +64,10 @@
 		02ABE9B42A7A0C7B00B10E0F /* AgeOfExtraterrestrialPlanet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgeOfExtraterrestrialPlanet.swift; sourceTree = "<group>"; };
 		02ABE9B62A7A0CBE00B10E0F /* SetTheOrderOfCare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetTheOrderOfCare.swift; sourceTree = "<group>"; };
 		02ABE9B82A7A0D1200B10E0F /* OrderedPairCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderedPairCount.swift; sourceTree = "<group>"; };
+		02ABE9BA2A7A0D8B00B10E0F /* AntsArmy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AntsArmy.swift; sourceTree = "<group>"; };
+		02ABE9BC2A7A0DAB00B10E0F /* MorseCode1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MorseCode1.swift; sourceTree = "<group>"; };
+		02ABE9BE2A7A0DC700B10E0F /* RockPaperScissors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RockPaperScissors.swift; sourceTree = "<group>"; };
+		02ABE9C02A7A0DF800B10E0F /* CaseOfShareBeads.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaseOfShareBeads.swift; sourceTree = "<group>"; };
 		02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoNumbers.swift; sourceTree = "<group>"; };
 		02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareTwoNumbers.swift; sourceTree = "<group>"; };
 		02BF5B122A79356000BE650C /* AdditionOfFractions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdditionOfFractions.swift; sourceTree = "<group>"; };
@@ -121,6 +129,10 @@
 		02ABE9A62A7A0ABF00B10E0F /* Day09 */ = {
 			isa = PBXGroup;
 			children = (
+				02ABE9BA2A7A0D8B00B10E0F /* AntsArmy.swift */,
+				02ABE9BC2A7A0DAB00B10E0F /* MorseCode1.swift */,
+				02ABE9BE2A7A0DC700B10E0F /* RockPaperScissors.swift */,
+				02ABE9C02A7A0DF800B10E0F /* CaseOfShareBeads.swift */,
 			);
 			path = Day09;
 			sourceTree = "<group>";
@@ -324,8 +336,11 @@
 				02F31B742A189E1B00312152 /* main.swift in Sources */,
 				02ABE9AD2A7A0B5700B10E0F /* Protractor.swift in Sources */,
 				02F31B812A18A1D500312152 /* FourArithmeticOperations.swift in Sources */,
+				02ABE9BF2A7A0DC700B10E0F /* RockPaperScissors.swift in Sources */,
+				02ABE9C12A7A0DF800B10E0F /* CaseOfShareBeads.swift in Sources */,
 				02BF5B312A793C0900BE650C /* PrintRightTriangle.swift in Sources */,
 				02BF5B282A793AEF00BE650C /* IceAmericano.swift in Sources */,
+				02ABE9BB2A7A0D8B00B10E0F /* AntsArmy.swift in Sources */,
 				02BF5B182A79388300BE650C /* GetTheRemainder.swift in Sources */,
 				02BF5B1C2A7938F400BE650C /* FindTheMostFrequentValue.swift in Sources */,
 				02BF5B382A793DF300BE650C /* CuttingPaper.swift in Sources */,
@@ -347,6 +362,7 @@
 				02ABE9B32A7A0C3F00B10E0F /* SplitArray.swift in Sources */,
 				02BF5B1E2A79392B00BE650C /* IHateEvenNumber.swift in Sources */,
 				02ABE9B12A7A0BC300B10E0F /* SumOfEvenNumbers.swift in Sources */,
+				02ABE9BD2A7A0DAB00B10E0F /* MorseCode1.swift in Sources */,
 				02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */,
 				02ABE9AB2A7A0AF400B10E0F /* RemoveSomeString.swift in Sources */,
 			);
