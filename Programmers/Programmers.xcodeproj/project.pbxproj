@@ -11,6 +11,10 @@
 		02ABE9AD2A7A0B5700B10E0F /* Protractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9AC2A7A0B5700B10E0F /* Protractor.swift */; };
 		02ABE9AF2A7A0B9700B10E0F /* LambSkewers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9AE2A7A0B9700B10E0F /* LambSkewers.swift */; };
 		02ABE9B12A7A0BC300B10E0F /* SumOfEvenNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9B02A7A0BC300B10E0F /* SumOfEvenNumbers.swift */; };
+		02ABE9B32A7A0C3F00B10E0F /* SplitArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9B22A7A0C3F00B10E0F /* SplitArray.swift */; };
+		02ABE9B52A7A0C7B00B10E0F /* AgeOfExtraterrestrialPlanet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9B42A7A0C7B00B10E0F /* AgeOfExtraterrestrialPlanet.swift */; };
+		02ABE9B72A7A0CBE00B10E0F /* SetTheOrderOfCare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9B62A7A0CBE00B10E0F /* SetTheOrderOfCare.swift */; };
+		02ABE9B92A7A0D1200B10E0F /* OrderedPairCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9B82A7A0D1200B10E0F /* OrderedPairCount.swift */; };
 		02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */; };
 		02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */; };
 		02BF5B132A79356000BE650C /* AdditionOfFractions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B122A79356000BE650C /* AdditionOfFractions.swift */; };
@@ -52,6 +56,10 @@
 		02ABE9AC2A7A0B5700B10E0F /* Protractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protractor.swift; sourceTree = "<group>"; };
 		02ABE9AE2A7A0B9700B10E0F /* LambSkewers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LambSkewers.swift; sourceTree = "<group>"; };
 		02ABE9B02A7A0BC300B10E0F /* SumOfEvenNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfEvenNumbers.swift; sourceTree = "<group>"; };
+		02ABE9B22A7A0C3F00B10E0F /* SplitArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitArray.swift; sourceTree = "<group>"; };
+		02ABE9B42A7A0C7B00B10E0F /* AgeOfExtraterrestrialPlanet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgeOfExtraterrestrialPlanet.swift; sourceTree = "<group>"; };
+		02ABE9B62A7A0CBE00B10E0F /* SetTheOrderOfCare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetTheOrderOfCare.swift; sourceTree = "<group>"; };
+		02ABE9B82A7A0D1200B10E0F /* OrderedPairCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderedPairCount.swift; sourceTree = "<group>"; };
 		02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoNumbers.swift; sourceTree = "<group>"; };
 		02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareTwoNumbers.swift; sourceTree = "<group>"; };
 		02BF5B122A79356000BE650C /* AdditionOfFractions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdditionOfFractions.swift; sourceTree = "<group>"; };
@@ -102,6 +110,10 @@
 		02ABE9A52A7A0AAE00B10E0F /* Day08 */ = {
 			isa = PBXGroup;
 			children = (
+				02ABE9B22A7A0C3F00B10E0F /* SplitArray.swift */,
+				02ABE9B42A7A0C7B00B10E0F /* AgeOfExtraterrestrialPlanet.swift */,
+				02ABE9B62A7A0CBE00B10E0F /* SetTheOrderOfCare.swift */,
+				02ABE9B82A7A0D1200B10E0F /* OrderedPairCount.swift */,
 			);
 			path = Day08;
 			sourceTree = "<group>";
@@ -318,8 +330,10 @@
 				02BF5B1C2A7938F400BE650C /* FindTheMostFrequentValue.swift in Sources */,
 				02BF5B382A793DF300BE650C /* CuttingPaper.swift in Sources */,
 				02BF5B152A7935BD00BE650C /* MakeDoubleArray.swift in Sources */,
+				02ABE9B72A7A0CBE00B10E0F /* SetTheOrderOfCare.swift in Sources */,
 				02BF5B132A79356000BE650C /* AdditionOfFractions.swift in Sources */,
 				02BF5B232A793A2F00BE650C /* AverageOfArray.swift in Sources */,
+				02ABE9B52A7A0C7B00B10E0F /* AgeOfExtraterrestrialPlanet.swift in Sources */,
 				02ABE9AF2A7A0B9700B10E0F /* LambSkewers.swift in Sources */,
 				02BF5B332A793C8900BE650C /* EvenOddCount.swift in Sources */,
 				02BF5B2A2A793B3600BE650C /* PrintAge.swift in Sources */,
@@ -328,7 +342,9 @@
 				02BF5B212A79398F00BE650C /* SharePizza.swift in Sources */,
 				02BF5B352A793CC800BE650C /* PrintStringRepeating.swift in Sources */,
 				02BF5B3A2A793E7300BE650C /* PushStrings.swift in Sources */,
+				02ABE9B92A7A0D1200B10E0F /* OrderedPairCount.swift in Sources */,
 				02BF5B2C2A793B6E00BE650C /* ReversedArray.swift in Sources */,
+				02ABE9B32A7A0C3F00B10E0F /* SplitArray.swift in Sources */,
 				02BF5B1E2A79392B00BE650C /* IHateEvenNumber.swift in Sources */,
 				02ABE9B12A7A0BC300B10E0F /* SumOfEvenNumbers.swift in Sources */,
 				02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */,
