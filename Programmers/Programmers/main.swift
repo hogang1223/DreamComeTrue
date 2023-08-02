@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = solution("hello", "ohell")
+let result = solution([1,2,3,4])
 print(result)

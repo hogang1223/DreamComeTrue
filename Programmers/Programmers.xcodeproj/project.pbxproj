@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		02ABE9AB2A7A0AF400B10E0F /* RemoveSomeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9AA2A7A0AF400B10E0F /* RemoveSomeString.swift */; };
+		02ABE9AD2A7A0B5700B10E0F /* Protractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9AC2A7A0B5700B10E0F /* Protractor.swift */; };
+		02ABE9AF2A7A0B9700B10E0F /* LambSkewers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9AE2A7A0B9700B10E0F /* LambSkewers.swift */; };
+		02ABE9B12A7A0BC300B10E0F /* SumOfEvenNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9B02A7A0BC300B10E0F /* SumOfEvenNumbers.swift */; };
 		02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */; };
 		02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */; };
 		02BF5B132A79356000BE650C /* AdditionOfFractions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B122A79356000BE650C /* AdditionOfFractions.swift */; };
@@ -44,6 +48,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		02ABE9AA2A7A0AF400B10E0F /* RemoveSomeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveSomeString.swift; sourceTree = "<group>"; };
+		02ABE9AC2A7A0B5700B10E0F /* Protractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protractor.swift; sourceTree = "<group>"; };
+		02ABE9AE2A7A0B9700B10E0F /* LambSkewers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LambSkewers.swift; sourceTree = "<group>"; };
+		02ABE9B02A7A0BC300B10E0F /* SumOfEvenNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfEvenNumbers.swift; sourceTree = "<group>"; };
 		02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoNumbers.swift; sourceTree = "<group>"; };
 		02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareTwoNumbers.swift; sourceTree = "<group>"; };
 		02BF5B122A79356000BE650C /* AdditionOfFractions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdditionOfFractions.swift; sourceTree = "<group>"; };
@@ -80,6 +88,52 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		02ABE9A42A7A0A9F00B10E0F /* Day07 */ = {
+			isa = PBXGroup;
+			children = (
+				02ABE9AA2A7A0AF400B10E0F /* RemoveSomeString.swift */,
+				02ABE9AC2A7A0B5700B10E0F /* Protractor.swift */,
+				02ABE9AE2A7A0B9700B10E0F /* LambSkewers.swift */,
+				02ABE9B02A7A0BC300B10E0F /* SumOfEvenNumbers.swift */,
+			);
+			path = Day07;
+			sourceTree = "<group>";
+		};
+		02ABE9A52A7A0AAE00B10E0F /* Day08 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Day08;
+			sourceTree = "<group>";
+		};
+		02ABE9A62A7A0ABF00B10E0F /* Day09 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Day09;
+			sourceTree = "<group>";
+		};
+		02ABE9A72A7A0AC600B10E0F /* Day10 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Day10;
+			sourceTree = "<group>";
+		};
+		02ABE9A82A7A0AD000B10E0F /* Day11 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Day11;
+			sourceTree = "<group>";
+		};
+		02ABE9A92A7A0AD600B10E0F /* Day12 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Day12;
+			sourceTree = "<group>";
+		};
 		02BF5B0D2A7933A200BE650C /* Day02 */ = {
 			isa = PBXGroup;
 			children = (
@@ -171,6 +225,12 @@
 			isa = PBXGroup;
 			children = (
 				02BF5B362A793DE000BE650C /* Day25 */,
+				02ABE9A92A7A0AD600B10E0F /* Day12 */,
+				02ABE9A82A7A0AD000B10E0F /* Day11 */,
+				02ABE9A72A7A0AC600B10E0F /* Day10 */,
+				02ABE9A62A7A0ABF00B10E0F /* Day09 */,
+				02ABE9A52A7A0AAE00B10E0F /* Day08 */,
+				02ABE9A42A7A0A9F00B10E0F /* Day07 */,
 				02BF5B2D2A793BB700BE650C /* Day06 */,
 				02BF5B242A793A8500BE650C /* Day05 */,
 				02BF5B1F2A79397C00BE650C /* Day04 */,
@@ -250,6 +310,7 @@
 				02BF5B2F2A793BCF00BE650C /* ReversedString.swift in Sources */,
 				02BF5B262A793AB100BE650C /* DiscountClothingStore.swift in Sources */,
 				02F31B742A189E1B00312152 /* main.swift in Sources */,
+				02ABE9AD2A7A0B5700B10E0F /* Protractor.swift in Sources */,
 				02F31B812A18A1D500312152 /* FourArithmeticOperations.swift in Sources */,
 				02BF5B312A793C0900BE650C /* PrintRightTriangle.swift in Sources */,
 				02BF5B282A793AEF00BE650C /* IceAmericano.swift in Sources */,
@@ -259,6 +320,7 @@
 				02BF5B152A7935BD00BE650C /* MakeDoubleArray.swift in Sources */,
 				02BF5B132A79356000BE650C /* AdditionOfFractions.swift in Sources */,
 				02BF5B232A793A2F00BE650C /* AverageOfArray.swift in Sources */,
+				02ABE9AF2A7A0B9700B10E0F /* LambSkewers.swift in Sources */,
 				02BF5B332A793C8900BE650C /* EvenOddCount.swift in Sources */,
 				02BF5B2A2A793B3600BE650C /* PrintAge.swift in Sources */,
 				02BF5B1A2A7938B200BE650C /* GetCenterValue.swift in Sources */,
@@ -268,7 +330,9 @@
 				02BF5B3A2A793E7300BE650C /* PushStrings.swift in Sources */,
 				02BF5B2C2A793B6E00BE650C /* ReversedArray.swift in Sources */,
 				02BF5B1E2A79392B00BE650C /* IHateEvenNumber.swift in Sources */,
+				02ABE9B12A7A0BC300B10E0F /* SumOfEvenNumbers.swift in Sources */,
 				02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */,
+				02ABE9AB2A7A0AF400B10E0F /* RemoveSomeString.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

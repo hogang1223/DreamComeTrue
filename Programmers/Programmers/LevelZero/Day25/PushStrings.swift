@@ -21,7 +21,7 @@ import Foundation
  "atat"    "tata"    1
  "abc"    "abc"    0
  */
-func solution(_ A:String, _ B:String) -> Int {
+func pushStrings(_ A:String, _ B:String) -> Int {
     if A == B { return 0 }
     var count = 0
     var a = A
