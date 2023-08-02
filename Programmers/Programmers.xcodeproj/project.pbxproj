@@ -19,6 +19,10 @@
 		02ABE9BD2A7A0DAB00B10E0F /* MorseCode1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9BC2A7A0DAB00B10E0F /* MorseCode1.swift */; };
 		02ABE9BF2A7A0DC700B10E0F /* RockPaperScissors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9BE2A7A0DC700B10E0F /* RockPaperScissors.swift */; };
 		02ABE9C12A7A0DF800B10E0F /* CaseOfShareBeads.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9C02A7A0DF800B10E0F /* CaseOfShareBeads.swift */; };
+		02ABE9C32A7A0F0800B10E0F /* getCoordinatesOfPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9C22A7A0F0800B10E0F /* getCoordinatesOfPoint.swift */; };
+		02ABE9C52A7A0F3200B10E0F /* MakeTwoDimensional.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9C42A7A0F3200B10E0F /* MakeTwoDimensional.swift */; };
+		02ABE9C72A7A0F4600B10E0F /* ThrowBall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9C62A7A0F4600B10E0F /* ThrowBall.swift */; };
+		02ABE9C92A7A0F5D00B10E0F /* RotateArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9C82A7A0F5D00B10E0F /* RotateArray.swift */; };
 		02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */; };
 		02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */; };
 		02BF5B132A79356000BE650C /* AdditionOfFractions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B122A79356000BE650C /* AdditionOfFractions.swift */; };
@@ -68,6 +72,10 @@
 		02ABE9BC2A7A0DAB00B10E0F /* MorseCode1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MorseCode1.swift; sourceTree = "<group>"; };
 		02ABE9BE2A7A0DC700B10E0F /* RockPaperScissors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RockPaperScissors.swift; sourceTree = "<group>"; };
 		02ABE9C02A7A0DF800B10E0F /* CaseOfShareBeads.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaseOfShareBeads.swift; sourceTree = "<group>"; };
+		02ABE9C22A7A0F0800B10E0F /* getCoordinatesOfPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = getCoordinatesOfPoint.swift; sourceTree = "<group>"; };
+		02ABE9C42A7A0F3200B10E0F /* MakeTwoDimensional.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeTwoDimensional.swift; sourceTree = "<group>"; };
+		02ABE9C62A7A0F4600B10E0F /* ThrowBall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThrowBall.swift; sourceTree = "<group>"; };
+		02ABE9C82A7A0F5D00B10E0F /* RotateArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateArray.swift; sourceTree = "<group>"; };
 		02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoNumbers.swift; sourceTree = "<group>"; };
 		02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareTwoNumbers.swift; sourceTree = "<group>"; };
 		02BF5B122A79356000BE650C /* AdditionOfFractions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdditionOfFractions.swift; sourceTree = "<group>"; };
@@ -140,6 +148,10 @@
 		02ABE9A72A7A0AC600B10E0F /* Day10 */ = {
 			isa = PBXGroup;
 			children = (
+				02ABE9C22A7A0F0800B10E0F /* getCoordinatesOfPoint.swift */,
+				02ABE9C42A7A0F3200B10E0F /* MakeTwoDimensional.swift */,
+				02ABE9C62A7A0F4600B10E0F /* ThrowBall.swift */,
+				02ABE9C82A7A0F5D00B10E0F /* RotateArray.swift */,
 			);
 			path = Day10;
 			sourceTree = "<group>";
@@ -347,11 +359,15 @@
 				02BF5B152A7935BD00BE650C /* MakeDoubleArray.swift in Sources */,
 				02ABE9B72A7A0CBE00B10E0F /* SetTheOrderOfCare.swift in Sources */,
 				02BF5B132A79356000BE650C /* AdditionOfFractions.swift in Sources */,
+				02ABE9C92A7A0F5D00B10E0F /* RotateArray.swift in Sources */,
 				02BF5B232A793A2F00BE650C /* AverageOfArray.swift in Sources */,
 				02ABE9B52A7A0C7B00B10E0F /* AgeOfExtraterrestrialPlanet.swift in Sources */,
 				02ABE9AF2A7A0B9700B10E0F /* LambSkewers.swift in Sources */,
 				02BF5B332A793C8900BE650C /* EvenOddCount.swift in Sources */,
+				02ABE9C32A7A0F0800B10E0F /* getCoordinatesOfPoint.swift in Sources */,
+				02ABE9C72A7A0F4600B10E0F /* ThrowBall.swift in Sources */,
 				02BF5B2A2A793B3600BE650C /* PrintAge.swift in Sources */,
+				02ABE9C52A7A0F3200B10E0F /* MakeTwoDimensional.swift in Sources */,
 				02BF5B1A2A7938B200BE650C /* GetCenterValue.swift in Sources */,
 				02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */,
 				02BF5B212A79398F00BE650C /* SharePizza.swift in Sources */,
