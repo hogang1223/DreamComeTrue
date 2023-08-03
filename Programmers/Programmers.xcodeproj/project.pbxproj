@@ -57,6 +57,10 @@
 		BD4BE9492A7B643C00D58888 /* LengthOfArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9482A7B643C00D58888 /* LengthOfArray.swift */; };
 		BD4BE94B2A7B646B00D58888 /* RemoveDuplicationString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE94A2A7B646B00D58888 /* RemoveDuplicationString.swift */; };
 		BD4BE94D2A7B649900D58888 /* ConditionOfTriangle1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE94C2A7B649900D58888 /* ConditionOfTriangle1.swift */; };
+		BD4BE94F2A7B64FD00D58888 /* NearestNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE94E2A7B64FD00D58888 /* NearestNumber.swift */; };
+		BD4BE9512A7B650D00D58888 /* GameOf369.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9502A7B650D00D58888 /* GameOf369.swift */; };
+		BD4BE9532A7B652200D58888 /* Decryption.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9522A7B652200D58888 /* Decryption.swift */; };
+		BD4BE9552A7B653E00D58888 /* UppercaseLowercase.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9542A7B653E00D58888 /* UppercaseLowercase.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -123,6 +127,10 @@
 		BD4BE9482A7B643C00D58888 /* LengthOfArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthOfArray.swift; sourceTree = "<group>"; };
 		BD4BE94A2A7B646B00D58888 /* RemoveDuplicationString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicationString.swift; sourceTree = "<group>"; };
 		BD4BE94C2A7B649900D58888 /* ConditionOfTriangle1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionOfTriangle1.swift; sourceTree = "<group>"; };
+		BD4BE94E2A7B64FD00D58888 /* NearestNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NearestNumber.swift; sourceTree = "<group>"; };
+		BD4BE9502A7B650D00D58888 /* GameOf369.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOf369.swift; sourceTree = "<group>"; };
+		BD4BE9522A7B652200D58888 /* Decryption.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Decryption.swift; sourceTree = "<group>"; };
+		BD4BE9542A7B653E00D58888 /* UppercaseLowercase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UppercaseLowercase.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -341,6 +349,10 @@
 		BD4BE9442A7B637E00D58888 /* Day14 */ = {
 			isa = PBXGroup;
 			children = (
+				BD4BE94E2A7B64FD00D58888 /* NearestNumber.swift */,
+				BD4BE9502A7B650D00D58888 /* GameOf369.swift */,
+				BD4BE9522A7B652200D58888 /* Decryption.swift */,
+				BD4BE9542A7B653E00D58888 /* UppercaseLowercase.swift */,
 			);
 			path = Day14;
 			sourceTree = "<group>";
@@ -405,11 +417,13 @@
 			files = (
 				02BF5B2F2A793BCF00BE650C /* ReversedString.swift in Sources */,
 				02BF5B262A793AB100BE650C /* DiscountClothingStore.swift in Sources */,
+				BD4BE9552A7B653E00D58888 /* UppercaseLowercase.swift in Sources */,
 				02F31B742A189E1B00312152 /* main.swift in Sources */,
 				02ABE9AD2A7A0B5700B10E0F /* Protractor.swift in Sources */,
 				BD4BE9492A7B643C00D58888 /* LengthOfArray.swift in Sources */,
 				02F31B812A18A1D500312152 /* FourArithmeticOperations.swift in Sources */,
 				02ABE9BF2A7A0DC700B10E0F /* RockPaperScissors.swift in Sources */,
+				BD4BE9532A7B652200D58888 /* Decryption.swift in Sources */,
 				02ABE9C12A7A0DF800B10E0F /* CaseOfShareBeads.swift in Sources */,
 				02BF5B312A793C0900BE650C /* PrintRightTriangle.swift in Sources */,
 				02ABE9D72A7A10DE00B10E0F /* SumOfHideNumbers1.swift in Sources */,
@@ -450,9 +464,11 @@
 				BD4BE94D2A7B649900D58888 /* ConditionOfTriangle1.swift in Sources */,
 				02ABE9B12A7A0BC300B10E0F /* SumOfEvenNumbers.swift in Sources */,
 				02ABE9BD2A7A0DAB00B10E0F /* MorseCode1.swift in Sources */,
+				BD4BE9512A7B650D00D58888 /* GameOf369.swift in Sources */,
 				02ABE9D32A7A10BF00B10E0F /* RemoveVowel.swift in Sources */,
 				02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */,
 				02ABE9AB2A7A0AF400B10E0F /* RemoveSomeString.swift in Sources */,
+				BD4BE94F2A7B64FD00D58888 /* NearestNumber.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
