@@ -73,6 +73,10 @@
 		BD4BE9872A7CFD9800D58888 /* ChooseMultipleOfN.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9862A7CFD9800D58888 /* ChooseMultipleOfN.swift */; };
 		BD4BE9892A7CFDC000D58888 /* AddNumberOfDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9882A7CFDC000D58888 /* AddNumberOfDigits.swift */; };
 		BD4BE98B2A7CFDDE00D58888 /* OXQuiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE98A2A7CFDDE00D58888 /* OXQuiz.swift */; };
+		BD4BE98D2A7D02D300D58888 /* StringInString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE98C2A7D02D300D58888 /* StringInString.swift */; };
+		BD4BE98F2A7D030F00D58888 /* DeterminingTheNumberOfSquares.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE98E2A7D030F00D58888 /* DeterminingTheNumberOfSquares.swift */; };
+		BD4BE9912A7D033700D58888 /* BacterialGrowth.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9902A7D033700D58888 /* BacterialGrowth.swift */; };
+		BD4BE9932A7D03DB00D58888 /* rangeString2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9922A7D03DB00D58888 /* rangeString2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -155,6 +159,10 @@
 		BD4BE9862A7CFD9800D58888 /* ChooseMultipleOfN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseMultipleOfN.swift; sourceTree = "<group>"; };
 		BD4BE9882A7CFDC000D58888 /* AddNumberOfDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNumberOfDigits.swift; sourceTree = "<group>"; };
 		BD4BE98A2A7CFDDE00D58888 /* OXQuiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OXQuiz.swift; sourceTree = "<group>"; };
+		BD4BE98C2A7D02D300D58888 /* StringInString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringInString.swift; sourceTree = "<group>"; };
+		BD4BE98E2A7D030F00D58888 /* DeterminingTheNumberOfSquares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeterminingTheNumberOfSquares.swift; sourceTree = "<group>"; };
+		BD4BE9902A7D033700D58888 /* BacterialGrowth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BacterialGrowth.swift; sourceTree = "<group>"; };
+		BD4BE9922A7D03DB00D58888 /* rangeString2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rangeString2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -423,6 +431,10 @@
 		BD4BE9712A7CC4DE00D58888 /* Day18 */ = {
 			isa = PBXGroup;
 			children = (
+				BD4BE98C2A7D02D300D58888 /* StringInString.swift */,
+				BD4BE98E2A7D030F00D58888 /* DeterminingTheNumberOfSquares.swift */,
+				BD4BE9902A7D033700D58888 /* BacterialGrowth.swift */,
+				BD4BE9922A7D03DB00D58888 /* rangeString2.swift */,
 			);
 			path = Day18;
 			sourceTree = "<group>";
@@ -515,14 +527,17 @@
 				02ABE9D72A7A10DE00B10E0F /* SumOfHideNumbers1.swift in Sources */,
 				02BF5B282A793AEF00BE650C /* IceAmericano.swift in Sources */,
 				BD4BE9812A7CFCB800D58888 /* CalculateString.swift in Sources */,
+				BD4BE98D2A7D02D300D58888 /* StringInString.swift in Sources */,
 				BD4BE97F2A7CFC8500D58888 /* FindBiggestNumber.swift in Sources */,
 				BD4BE97B2A7CC5EE00D58888 /* GetDivisor.swift in Sources */,
+				BD4BE98F2A7D030F00D58888 /* DeterminingTheNumberOfSquares.swift in Sources */,
 				02ABE9BB2A7A0D8B00B10E0F /* AntsArmy.swift in Sources */,
 				02BF5B182A79388300BE650C /* GetTheRemainder.swift in Sources */,
 				02BF5B1C2A7938F400BE650C /* FindTheMostFrequentValue.swift in Sources */,
 				BD4BE9792A7CC5AA00D58888 /* LetterAppearedOnce.swift in Sources */,
 				02BF5B382A793DF300BE650C /* CuttingPaper.swift in Sources */,
 				BD4BE94B2A7B646B00D58888 /* RemoveDuplicationString.swift in Sources */,
+				BD4BE9912A7D033700D58888 /* BacterialGrowth.swift in Sources */,
 				02BF5B152A7935BD00BE650C /* MakeDoubleArray.swift in Sources */,
 				02ABE9B72A7A0CBE00B10E0F /* SetTheOrderOfCare.swift in Sources */,
 				02ABE9D12A7A101600B10E0F /* Factorial.swift in Sources */,
@@ -549,6 +564,7 @@
 				02ABE9CD2A7A100000B10E0F /* FindCompositNumber.swift in Sources */,
 				02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */,
 				02BF5B212A79398F00BE650C /* SharePizza.swift in Sources */,
+				BD4BE9932A7D03DB00D58888 /* rangeString2.swift in Sources */,
 				02BF5B352A793CC800BE650C /* PrintStringRepeating.swift in Sources */,
 				02BF5B3A2A793E7300BE650C /* PushStrings.swift in Sources */,
 				02ABE9B92A7A0D1200B10E0F /* OrderedPairCount.swift in Sources */,
