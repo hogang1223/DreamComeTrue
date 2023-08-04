@@ -65,6 +65,10 @@
 		BD4BE9772A7CC56700D58888 /* ChangeIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9762A7CC56700D58888 /* ChangeIndex.swift */; };
 		BD4BE9792A7CC5AA00D58888 /* LetterAppearedOnce.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9782A7CC5AA00D58888 /* LetterAppearedOnce.swift */; };
 		BD4BE97B2A7CC5EE00D58888 /* GetDivisor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE97A2A7CC5EE00D58888 /* GetDivisor.swift */; };
+		BD4BE97D2A7CFC5E00D58888 /* Letter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE97C2A7CFC5E00D58888 /* Letter.swift */; };
+		BD4BE97F2A7CFC8500D58888 /* FindBiggestNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE97E2A7CFC8500D58888 /* FindBiggestNumber.swift */; };
+		BD4BE9812A7CFCB800D58888 /* CalculateString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9802A7CFCB800D58888 /* CalculateString.swift */; };
+		BD4BE9832A7CFCE000D58888 /* SimilarityOfArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9822A7CFCE000D58888 /* SimilarityOfArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -139,6 +143,10 @@
 		BD4BE9762A7CC56700D58888 /* ChangeIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeIndex.swift; sourceTree = "<group>"; };
 		BD4BE9782A7CC5AA00D58888 /* LetterAppearedOnce.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetterAppearedOnce.swift; sourceTree = "<group>"; };
 		BD4BE97A2A7CC5EE00D58888 /* GetDivisor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetDivisor.swift; sourceTree = "<group>"; };
+		BD4BE97C2A7CFC5E00D58888 /* Letter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Letter.swift; sourceTree = "<group>"; };
+		BD4BE97E2A7CFC8500D58888 /* FindBiggestNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindBiggestNumber.swift; sourceTree = "<group>"; };
+		BD4BE9802A7CFCB800D58888 /* CalculateString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateString.swift; sourceTree = "<group>"; };
+		BD4BE9822A7CFCE000D58888 /* SimilarityOfArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimilarityOfArray.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -385,6 +393,10 @@
 		BD4BE96F2A7CC49700D58888 /* Day16 */ = {
 			isa = PBXGroup;
 			children = (
+				BD4BE97C2A7CFC5E00D58888 /* Letter.swift */,
+				BD4BE97E2A7CFC8500D58888 /* FindBiggestNumber.swift */,
+				BD4BE9802A7CFCB800D58888 /* CalculateString.swift */,
+				BD4BE9822A7CFCE000D58888 /* SimilarityOfArray.swift */,
 			);
 			path = Day16;
 			sourceTree = "<group>";
@@ -482,12 +494,15 @@
 				02ABE9AD2A7A0B5700B10E0F /* Protractor.swift in Sources */,
 				BD4BE9492A7B643C00D58888 /* LengthOfArray.swift in Sources */,
 				02F31B812A18A1D500312152 /* FourArithmeticOperations.swift in Sources */,
+				BD4BE9832A7CFCE000D58888 /* SimilarityOfArray.swift in Sources */,
 				02ABE9BF2A7A0DC700B10E0F /* RockPaperScissors.swift in Sources */,
 				BD4BE9532A7B652200D58888 /* Decryption.swift in Sources */,
 				02ABE9C12A7A0DF800B10E0F /* CaseOfShareBeads.swift in Sources */,
 				02BF5B312A793C0900BE650C /* PrintRightTriangle.swift in Sources */,
 				02ABE9D72A7A10DE00B10E0F /* SumOfHideNumbers1.swift in Sources */,
 				02BF5B282A793AEF00BE650C /* IceAmericano.swift in Sources */,
+				BD4BE9812A7CFCB800D58888 /* CalculateString.swift in Sources */,
+				BD4BE97F2A7CFC8500D58888 /* FindBiggestNumber.swift in Sources */,
 				BD4BE97B2A7CC5EE00D58888 /* GetDivisor.swift in Sources */,
 				02ABE9BB2A7A0D8B00B10E0F /* AntsArmy.swift in Sources */,
 				02BF5B182A79388300BE650C /* GetTheRemainder.swift in Sources */,
@@ -527,6 +542,7 @@
 				02BF5B1E2A79392B00BE650C /* IHateEvenNumber.swift in Sources */,
 				BD4BE94D2A7B649900D58888 /* ConditionOfTriangle1.swift in Sources */,
 				02ABE9B12A7A0BC300B10E0F /* SumOfEvenNumbers.swift in Sources */,
+				BD4BE97D2A7CFC5E00D58888 /* Letter.swift in Sources */,
 				02ABE9BD2A7A0DAB00B10E0F /* MorseCode1.swift in Sources */,
 				BD4BE9512A7B650D00D58888 /* GameOf369.swift in Sources */,
 				02ABE9D32A7A10BF00B10E0F /* RemoveVowel.swift in Sources */,
