@@ -69,6 +69,10 @@
 		BD4BE97F2A7CFC8500D58888 /* FindBiggestNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE97E2A7CFC8500D58888 /* FindBiggestNumber.swift */; };
 		BD4BE9812A7CFCB800D58888 /* CalculateString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9802A7CFCB800D58888 /* CalculateString.swift */; };
 		BD4BE9832A7CFCE000D58888 /* SimilarityOfArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9822A7CFCE000D58888 /* SimilarityOfArray.swift */; };
+		BD4BE9852A7CFD7200D58888 /* FindNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9842A7CFD7200D58888 /* FindNumber.swift */; };
+		BD4BE9872A7CFD9800D58888 /* ChooseMultipleOfN.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9862A7CFD9800D58888 /* ChooseMultipleOfN.swift */; };
+		BD4BE9892A7CFDC000D58888 /* AddNumberOfDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9882A7CFDC000D58888 /* AddNumberOfDigits.swift */; };
+		BD4BE98B2A7CFDDE00D58888 /* OXQuiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE98A2A7CFDDE00D58888 /* OXQuiz.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -147,6 +151,10 @@
 		BD4BE97E2A7CFC8500D58888 /* FindBiggestNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindBiggestNumber.swift; sourceTree = "<group>"; };
 		BD4BE9802A7CFCB800D58888 /* CalculateString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculateString.swift; sourceTree = "<group>"; };
 		BD4BE9822A7CFCE000D58888 /* SimilarityOfArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimilarityOfArray.swift; sourceTree = "<group>"; };
+		BD4BE9842A7CFD7200D58888 /* FindNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindNumber.swift; sourceTree = "<group>"; };
+		BD4BE9862A7CFD9800D58888 /* ChooseMultipleOfN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseMultipleOfN.swift; sourceTree = "<group>"; };
+		BD4BE9882A7CFDC000D58888 /* AddNumberOfDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNumberOfDigits.swift; sourceTree = "<group>"; };
+		BD4BE98A2A7CFDDE00D58888 /* OXQuiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OXQuiz.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -404,6 +412,10 @@
 		BD4BE9702A7CC4D600D58888 /* Day17 */ = {
 			isa = PBXGroup;
 			children = (
+				BD4BE9842A7CFD7200D58888 /* FindNumber.swift */,
+				BD4BE9862A7CFD9800D58888 /* ChooseMultipleOfN.swift */,
+				BD4BE9882A7CFDC000D58888 /* AddNumberOfDigits.swift */,
+				BD4BE98A2A7CFDDE00D58888 /* OXQuiz.swift */,
 			);
 			path = Day17;
 			sourceTree = "<group>";
@@ -491,6 +503,7 @@
 				02BF5B262A793AB100BE650C /* DiscountClothingStore.swift in Sources */,
 				BD4BE9552A7B653E00D58888 /* UppercaseLowercase.swift in Sources */,
 				02F31B742A189E1B00312152 /* main.swift in Sources */,
+				BD4BE9852A7CFD7200D58888 /* FindNumber.swift in Sources */,
 				02ABE9AD2A7A0B5700B10E0F /* Protractor.swift in Sources */,
 				BD4BE9492A7B643C00D58888 /* LengthOfArray.swift in Sources */,
 				02F31B812A18A1D500312152 /* FourArithmeticOperations.swift in Sources */,
@@ -520,6 +533,7 @@
 				02ABE9B52A7A0C7B00B10E0F /* AgeOfExtraterrestrialPlanet.swift in Sources */,
 				BD4BE9772A7CC56700D58888 /* ChangeIndex.swift in Sources */,
 				BD4BE9462A7B63F600D58888 /* ControlZ.swift in Sources */,
+				BD4BE9872A7CFD9800D58888 /* ChooseMultipleOfN.swift in Sources */,
 				02ABE9AF2A7A0B9700B10E0F /* LambSkewers.swift in Sources */,
 				02BF5B332A793C8900BE650C /* EvenOddCount.swift in Sources */,
 				02ABE9C32A7A0F0800B10E0F /* getCoordinatesOfPoint.swift in Sources */,
@@ -531,6 +545,7 @@
 				02ABE9C52A7A0F3200B10E0F /* MakeTwoDimensional.swift in Sources */,
 				02ABE9CB2A7A0FE700B10E0F /* DiceCount.swift in Sources */,
 				02BF5B1A2A7938B200BE650C /* GetCenterValue.swift in Sources */,
+				BD4BE9892A7CFDC000D58888 /* AddNumberOfDigits.swift in Sources */,
 				02ABE9CD2A7A100000B10E0F /* FindCompositNumber.swift in Sources */,
 				02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */,
 				02BF5B212A79398F00BE650C /* SharePizza.swift in Sources */,
@@ -547,6 +562,7 @@
 				BD4BE9512A7B650D00D58888 /* GameOf369.swift in Sources */,
 				02ABE9D32A7A10BF00B10E0F /* RemoveVowel.swift in Sources */,
 				02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */,
+				BD4BE98B2A7CFDDE00D58888 /* OXQuiz.swift in Sources */,
 				02ABE9AB2A7A0AF400B10E0F /* RemoveSomeString.swift in Sources */,
 				BD4BE94F2A7B64FD00D58888 /* NearestNumber.swift in Sources */,
 			);
