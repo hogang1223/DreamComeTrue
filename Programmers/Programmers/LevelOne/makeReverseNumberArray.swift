@@ -17,6 +17,6 @@ n은 10,000,000,000이하인 자연수입니다.
 n    return
 12345    [5,4,3,2,1]
 */
-func solution(_ n:Int64) -> [Int] {
+func makeReverseNumberArray(_ n:Int64) -> [Int] {
     return String(n).map{ Int(String($0))! }.reversed()
 }

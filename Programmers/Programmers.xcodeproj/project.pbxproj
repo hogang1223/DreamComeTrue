@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0264A42B2A7E91EC00BAF269 /* makeReverseNumberArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0264A42A2A7E91EC00BAF269 /* makeReverseNumberArray.swift */; };
+		0264A42D2A7E92F400BAF269 /* CountOfPAndY.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0264A42C2A7E92F400BAF269 /* CountOfPAndY.swift */; };
 		02ABE9AB2A7A0AF400B10E0F /* RemoveSomeString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9AA2A7A0AF400B10E0F /* RemoveSomeString.swift */; };
 		02ABE9AD2A7A0B5700B10E0F /* Protractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9AC2A7A0B5700B10E0F /* Protractor.swift */; };
 		02ABE9AF2A7A0B9700B10E0F /* LambSkewers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9AE2A7A0B9700B10E0F /* LambSkewers.swift */; };
@@ -94,6 +95,7 @@
 
 /* Begin PBXFileReference section */
 		0264A42A2A7E91EC00BAF269 /* makeReverseNumberArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = makeReverseNumberArray.swift; sourceTree = "<group>"; };
+		0264A42C2A7E92F400BAF269 /* CountOfPAndY.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountOfPAndY.swift; sourceTree = "<group>"; };
 		02ABE9AA2A7A0AF400B10E0F /* RemoveSomeString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveSomeString.swift; sourceTree = "<group>"; };
 		02ABE9AC2A7A0B5700B10E0F /* Protractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protractor.swift; sourceTree = "<group>"; };
 		02ABE9AE2A7A0B9700B10E0F /* LambSkewers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LambSkewers.swift; sourceTree = "<group>"; };
@@ -182,6 +184,7 @@
 			isa = PBXGroup;
 			children = (
 				0264A42A2A7E91EC00BAF269 /* makeReverseNumberArray.swift */,
+				0264A42C2A7E92F400BAF269 /* CountOfPAndY.swift */,
 			);
 			path = LevelOne;
 			sourceTree = "<group>";
@@ -515,6 +518,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				02BF5B2F2A793BCF00BE650C /* ReversedString.swift in Sources */,
+				0264A42D2A7E92F400BAF269 /* CountOfPAndY.swift in Sources */,
 				02BF5B262A793AB100BE650C /* DiscountClothingStore.swift in Sources */,
 				BD4BE9552A7B653E00D58888 /* UppercaseLowercase.swift in Sources */,
 				02F31B742A189E1B00312152 /* main.swift in Sources */,
