@@ -55,6 +55,7 @@
 		02BF5B352A793CC800BE650C /* PrintStringRepeating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B342A793CC800BE650C /* PrintStringRepeating.swift */; };
 		02BF5B382A793DF300BE650C /* CuttingPaper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B372A793DF300BE650C /* CuttingPaper.swift */; };
 		02BF5B3A2A793E7300BE650C /* PushStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B392A793E7300BE650C /* PushStrings.swift */; };
+		02C4034F2A8391F50081B376 /* MaxAndMin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4034E2A8391F50081B376 /* MaxAndMin.swift */; };
 		02F31B742A189E1B00312152 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F31B732A189E1B00312152 /* main.swift */; };
 		02F31B812A18A1D500312152 /* FourArithmeticOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F31B802A18A1D500312152 /* FourArithmeticOperations.swift */; };
 		BD4BE9462A7B63F600D58888 /* ControlZ.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9452A7B63F600D58888 /* ControlZ.swift */; };
@@ -144,6 +145,7 @@
 		02BF5B342A793CC800BE650C /* PrintStringRepeating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrintStringRepeating.swift; sourceTree = "<group>"; };
 		02BF5B372A793DF300BE650C /* CuttingPaper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CuttingPaper.swift; sourceTree = "<group>"; };
 		02BF5B392A793E7300BE650C /* PushStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushStrings.swift; sourceTree = "<group>"; };
+		02C4034E2A8391F50081B376 /* MaxAndMin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxAndMin.swift; sourceTree = "<group>"; };
 		02F31B702A189E1B00312152 /* Programmers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Programmers; sourceTree = BUILT_PRODUCTS_DIR; };
 		02F31B732A189E1B00312152 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		02F31B802A18A1D500312152 /* FourArithmeticOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourArithmeticOperations.swift; sourceTree = "<group>"; };
@@ -326,6 +328,7 @@
 		02C4034D2A83918A0081B376 /* LevelTwo */ = {
 			isa = PBXGroup;
 			children = (
+				02C4034E2A8391F50081B376 /* MaxAndMin.swift */,
 			);
 			path = LevelTwo;
 			sourceTree = "<group>";
@@ -547,6 +550,7 @@
 				02BF5B312A793C0900BE650C /* PrintRightTriangle.swift in Sources */,
 				02ABE9D72A7A10DE00B10E0F /* SumOfHideNumbers1.swift in Sources */,
 				02BF5B282A793AEF00BE650C /* IceAmericano.swift in Sources */,
+				02C4034F2A8391F50081B376 /* MaxAndMin.swift in Sources */,
 				BD4BE9812A7CFCB800D58888 /* CalculateString.swift in Sources */,
 				BD4BE98D2A7D02D300D58888 /* StringInString.swift in Sources */,
 				BD4BE97F2A7CFC8500D58888 /* FindBiggestNumber.swift in Sources */,
