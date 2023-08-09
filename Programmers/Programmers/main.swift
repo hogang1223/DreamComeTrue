@@ -6,6 +6,3 @@
 //
 
 import Foundation
-
-let result = solution(7)
-print(result)

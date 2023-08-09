@@ -20,7 +20,7 @@ import Foundation
  12    11
  */
 
-func solution(_ n:Int) -> Int {
+func FineRemainderOne(_ n:Int) -> Int {
     let divisor = Array(1...(n-1)).filter { (n - 1) % $0 == 0 }
     return divisor[1]
 }
