@@ -55,7 +55,10 @@
 		02BF5B352A793CC800BE650C /* PrintStringRepeating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B342A793CC800BE650C /* PrintStringRepeating.swift */; };
 		02BF5B382A793DF300BE650C /* CuttingPaper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B372A793DF300BE650C /* CuttingPaper.swift */; };
 		02BF5B3A2A793E7300BE650C /* PushStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B392A793E7300BE650C /* PushStrings.swift */; };
+		02C3D5B92A8CADC600B03DED /* MakeMinValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C3D5B82A8CADC600B03DED /* MakeMinValue.swift */; };
+		02C3D5BB2A8CAFC300B03DED /* CorrectParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C3D5BA2A8CAFC300B03DED /* CorrectParentheses.swift */; };
 		02C4034F2A8391F50081B376 /* MaxAndMin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4034E2A8391F50081B376 /* MaxAndMin.swift */; };
+		02C403512A8392300081B376 /* makeJandenCaseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C403502A8392300081B376 /* makeJandenCaseString.swift */; };
 		02F31B742A189E1B00312152 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F31B732A189E1B00312152 /* main.swift */; };
 		02F31B812A18A1D500312152 /* FourArithmeticOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F31B802A18A1D500312152 /* FourArithmeticOperations.swift */; };
 		BD4BE9462A7B63F600D58888 /* ControlZ.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9452A7B63F600D58888 /* ControlZ.swift */; };
@@ -145,7 +148,10 @@
 		02BF5B342A793CC800BE650C /* PrintStringRepeating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrintStringRepeating.swift; sourceTree = "<group>"; };
 		02BF5B372A793DF300BE650C /* CuttingPaper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CuttingPaper.swift; sourceTree = "<group>"; };
 		02BF5B392A793E7300BE650C /* PushStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushStrings.swift; sourceTree = "<group>"; };
+		02C3D5B82A8CADC600B03DED /* MakeMinValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeMinValue.swift; sourceTree = "<group>"; };
+		02C3D5BA2A8CAFC300B03DED /* CorrectParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorrectParentheses.swift; sourceTree = "<group>"; };
 		02C4034E2A8391F50081B376 /* MaxAndMin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxAndMin.swift; sourceTree = "<group>"; };
+		02C403502A8392300081B376 /* makeJandenCaseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = makeJandenCaseString.swift; sourceTree = "<group>"; };
 		02F31B702A189E1B00312152 /* Programmers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Programmers; sourceTree = BUILT_PRODUCTS_DIR; };
 		02F31B732A189E1B00312152 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		02F31B802A18A1D500312152 /* FourArithmeticOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourArithmeticOperations.swift; sourceTree = "<group>"; };
@@ -329,6 +335,9 @@
 			isa = PBXGroup;
 			children = (
 				02C4034E2A8391F50081B376 /* MaxAndMin.swift */,
+				02C403502A8392300081B376 /* makeJandenCaseString.swift */,
+				02C3D5B82A8CADC600B03DED /* MakeMinValue.swift */,
+				02C3D5BA2A8CAFC300B03DED /* CorrectParentheses.swift */,
 			);
 			path = LevelTwo;
 			sourceTree = "<group>";
@@ -573,6 +582,7 @@
 				02ABE9B52A7A0C7B00B10E0F /* AgeOfExtraterrestrialPlanet.swift in Sources */,
 				BD4BE9772A7CC56700D58888 /* ChangeIndex.swift in Sources */,
 				BD4BE9462A7B63F600D58888 /* ControlZ.swift in Sources */,
+				02C3D5B92A8CADC600B03DED /* MakeMinValue.swift in Sources */,
 				BD4BE9872A7CFD9800D58888 /* ChooseMultipleOfN.swift in Sources */,
 				02ABE9AF2A7A0B9700B10E0F /* LambSkewers.swift in Sources */,
 				02BF5B332A793C8900BE650C /* EvenOddCount.swift in Sources */,
@@ -604,9 +614,11 @@
 				BD4BE97D2A7CFC5E00D58888 /* Letter.swift in Sources */,
 				02ABE9BD2A7A0DAB00B10E0F /* MorseCode1.swift in Sources */,
 				BD4BE9512A7B650D00D58888 /* GameOf369.swift in Sources */,
+				02C403512A8392300081B376 /* makeJandenCaseString.swift in Sources */,
 				02ABE9D32A7A10BF00B10E0F /* RemoveVowel.swift in Sources */,
 				02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */,
 				BD4BE98B2A7CFDDE00D58888 /* OXQuiz.swift in Sources */,
+				02C3D5BB2A8CAFC300B03DED /* CorrectParentheses.swift in Sources */,
 				02ABE9AB2A7A0AF400B10E0F /* RemoveSomeString.swift in Sources */,
 				BD4BE94F2A7B64FD00D58888 /* NearestNumber.swift in Sources */,
 			);
