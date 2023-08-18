@@ -6,3 +6,6 @@
 //
 
 import Foundation
+
+let result = solution("110010101001")
+print(result)
