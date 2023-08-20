@@ -62,6 +62,7 @@
 		02C4034F2A8391F50081B376 /* MaxAndMin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4034E2A8391F50081B376 /* MaxAndMin.swift */; };
 		02C403512A8392300081B376 /* makeJandenCaseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C403502A8392300081B376 /* makeJandenCaseString.swift */; };
 		02ED23E92A9241F100A292BB /* FibonacciNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ED23E82A9241F100A292BB /* FibonacciNumbers.swift */; };
+		02ED23EB2A92441B00A292BB /* RemoveCouples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ED23EA2A92441B00A292BB /* RemoveCouples.swift */; };
 		02F31B742A189E1B00312152 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F31B732A189E1B00312152 /* main.swift */; };
 		02F31B812A18A1D500312152 /* FourArithmeticOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F31B802A18A1D500312152 /* FourArithmeticOperations.swift */; };
 		BD4BE9462A7B63F600D58888 /* ControlZ.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9452A7B63F600D58888 /* ControlZ.swift */; };
@@ -158,6 +159,7 @@
 		02C4034E2A8391F50081B376 /* MaxAndMin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxAndMin.swift; sourceTree = "<group>"; };
 		02C403502A8392300081B376 /* makeJandenCaseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = makeJandenCaseString.swift; sourceTree = "<group>"; };
 		02ED23E82A9241F100A292BB /* FibonacciNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FibonacciNumbers.swift; sourceTree = "<group>"; };
+		02ED23EA2A92441B00A292BB /* RemoveCouples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveCouples.swift; sourceTree = "<group>"; };
 		02F31B702A189E1B00312152 /* Programmers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Programmers; sourceTree = BUILT_PRODUCTS_DIR; };
 		02F31B732A189E1B00312152 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		02F31B802A18A1D500312152 /* FourArithmeticOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourArithmeticOperations.swift; sourceTree = "<group>"; };
@@ -347,6 +349,7 @@
 				02C08A8E2A8F9BD500C58C88 /* RepeatBinaryTransformation.swift */,
 				02C08A902A8F9EA400C58C88 /* NextBigNumber.swift */,
 				02ED23E82A9241F100A292BB /* FibonacciNumbers.swift */,
+				02ED23EA2A92441B00A292BB /* RemoveCouples.swift */,
 			);
 			path = LevelTwo;
 			sourceTree = "<group>";
@@ -607,6 +610,7 @@
 				0211B0752A7FBC1100C043A0 /* ChangeLetterToNumber.swift in Sources */,
 				BD4BE9752A7CC55500D58888 /* IhateEnglish.swift in Sources */,
 				02ABE9D52A7A10D400B10E0F /* ArrangeArray1.swift in Sources */,
+				02ED23EB2A92441B00A292BB /* RemoveCouples.swift in Sources */,
 				02ABE9C52A7A0F3200B10E0F /* MakeTwoDimensional.swift in Sources */,
 				02ABE9CB2A7A0FE700B10E0F /* DiceCount.swift in Sources */,
 				02BF5B1A2A7938B200BE650C /* GetCenterValue.swift in Sources */,
