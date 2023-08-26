@@ -22,7 +22,7 @@ import Foundation
  8    4    7    3
  */
 
-func solution(_ n:Int, _ a:Int, _ b:Int) -> Int
+func ExpectedMatchList(_ n:Int, _ a:Int, _ b:Int) -> Int
 {
     var aa = a
     var bb = b
