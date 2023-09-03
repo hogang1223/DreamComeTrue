@@ -63,6 +63,7 @@
 		02BF5B3A2A793E7300BE650C /* PushStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B392A793E7300BE650C /* PushStrings.swift */; };
 		02C08A8F2A8F9BD500C58C88 /* RepeatBinaryTransformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C08A8E2A8F9BD500C58C88 /* RepeatBinaryTransformation.swift */; };
 		02C08A912A8F9EA400C58C88 /* NextBigNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C08A902A8F9EA400C58C88 /* NextBigNumber.swift */; };
+		02C20BEA2AA4BC4F0054E625 /* SortDescending.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C20BE92AA4BC4F0054E625 /* SortDescending.swift */; };
 		02C3D5B92A8CADC600B03DED /* MakeMinValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C3D5B82A8CADC600B03DED /* MakeMinValue.swift */; };
 		02C3D5BB2A8CAFC300B03DED /* CorrectParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C3D5BA2A8CAFC300B03DED /* CorrectParentheses.swift */; };
 		02C4034F2A8391F50081B376 /* MaxAndMin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4034E2A8391F50081B376 /* MaxAndMin.swift */; };
@@ -169,6 +170,7 @@
 		02BF5B392A793E7300BE650C /* PushStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PushStrings.swift; sourceTree = "<group>"; };
 		02C08A8E2A8F9BD500C58C88 /* RepeatBinaryTransformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatBinaryTransformation.swift; sourceTree = "<group>"; };
 		02C08A902A8F9EA400C58C88 /* NextBigNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextBigNumber.swift; sourceTree = "<group>"; };
+		02C20BE92AA4BC4F0054E625 /* SortDescending.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortDescending.swift; sourceTree = "<group>"; };
 		02C3D5B82A8CADC600B03DED /* MakeMinValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeMinValue.swift; sourceTree = "<group>"; };
 		02C3D5BA2A8CAFC300B03DED /* CorrectParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorrectParentheses.swift; sourceTree = "<group>"; };
 		02C4034E2A8391F50081B376 /* MaxAndMin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxAndMin.swift; sourceTree = "<group>"; };
@@ -236,6 +238,7 @@
 				0264A42C2A7E92F400BAF269 /* CountOfPAndY.swift */,
 				0211B0742A7FBC1100C043A0 /* ChangeLetterToNumber.swift */,
 				0211B0762A7FBCE500C043A0 /* FineRemainderOne.swift */,
+				02C20BE92AA4BC4F0054E625 /* SortDescending.swift */,
 			);
 			path = LevelOne;
 			sourceTree = "<group>";
@@ -645,6 +648,7 @@
 				02ABE9D52A7A10D400B10E0F /* ArrangeArray1.swift in Sources */,
 				0213BB982A9E254B0014F46A /* PickTangerine.swift in Sources */,
 				0213BBA12AA0C4580014F46A /* PolynomialAddition.swift in Sources */,
+				02C20BEA2AA4BC4F0054E625 /* SortDescending.swift in Sources */,
 				0213BB9F2AA0C43A0014F46A /* MakeMaxValue2.swift in Sources */,
 				02ED23EB2A92441B00A292BB /* RemoveCouples.swift in Sources */,
 				02ABE9C52A7A0F3200B10E0F /* MakeTwoDimensional.swift in Sources */,
