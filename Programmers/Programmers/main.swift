@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = solution(3,5)
+let result = solution(11)
 print(result)
