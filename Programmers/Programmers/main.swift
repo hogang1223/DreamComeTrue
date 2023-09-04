@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = solution(11)
+let result = solution( ["mumu", "soe", "poe", "kai", "mine"], ["kai", "kai", "mine", "mine"])
 print(result)
