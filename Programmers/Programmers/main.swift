@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = solution( ["may", "kein", "kain", "radi"], [5, 10, 1, 3], [["may", "kein", "kain", "radi"],["may", "kein", "brin", "deny"], ["kon", "kain", "may", "coni"]])
+let result = solution([5, 9, 7, 10], 5)
 print(result)

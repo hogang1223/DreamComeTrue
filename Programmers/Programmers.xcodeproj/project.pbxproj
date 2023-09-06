@@ -41,6 +41,7 @@
 		02ABE9D52A7A10D400B10E0F /* ArrangeArray1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9D42A7A10D400B10E0F /* ArrangeArray1.swift */; };
 		02ABE9D72A7A10DE00B10E0F /* SumOfHideNumbers1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9D62A7A10DE00B10E0F /* SumOfHideNumbers1.swift */; };
 		02ABE9D92A7A10F400B10E0F /* FactorizationOfFactors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9D82A7A10F400B10E0F /* FactorizationOfFactors.swift */; };
+		02BBFBFE2AA8B455002F5050 /* DivisibleArrayOfNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BBFBFD2AA8B455002F5050 /* DivisibleArrayOfNumbers.swift */; };
 		02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */; };
 		02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */; };
 		02BF5B132A79356000BE650C /* AdditionOfFractions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B122A79356000BE650C /* AdditionOfFractions.swift */; };
@@ -152,6 +153,7 @@
 		02ABE9D42A7A10D400B10E0F /* ArrangeArray1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrangeArray1.swift; sourceTree = "<group>"; };
 		02ABE9D62A7A10DE00B10E0F /* SumOfHideNumbers1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfHideNumbers1.swift; sourceTree = "<group>"; };
 		02ABE9D82A7A10F400B10E0F /* FactorizationOfFactors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactorizationOfFactors.swift; sourceTree = "<group>"; };
+		02BBFBFD2AA8B455002F5050 /* DivisibleArrayOfNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivisibleArrayOfNumbers.swift; sourceTree = "<group>"; };
 		02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoNumbers.swift; sourceTree = "<group>"; };
 		02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareTwoNumbers.swift; sourceTree = "<group>"; };
 		02BF5B122A79356000BE650C /* AdditionOfFractions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdditionOfFractions.swift; sourceTree = "<group>"; };
@@ -251,6 +253,7 @@
 				02C20BED2AA4C1000054E625 /* NumberOfHarshards.swift */,
 				02F42D442AA5F94500A6A58F /* RunningRace.swift */,
 				02DB76752AA748BD00B6A454 /* ScoreOfMemory.swift */,
+				02BBFBFD2AA8B455002F5050 /* DivisibleArrayOfNumbers.swift */,
 			);
 			path = LevelOne;
 			sourceTree = "<group>";
@@ -655,6 +658,7 @@
 				02ABE9C72A7A0F4600B10E0F /* ThrowBall.swift in Sources */,
 				0211B0772A7FBCE500C043A0 /* FineRemainderOne.swift in Sources */,
 				02BF5B2A2A793B3600BE650C /* PrintAge.swift in Sources */,
+				02BBFBFE2AA8B455002F5050 /* DivisibleArrayOfNumbers.swift in Sources */,
 				02ABE9CF2A7A100E00B10E0F /* MakeMaxNumber1.swift in Sources */,
 				0211B0752A7FBC1100C043A0 /* ChangeLetterToNumber.swift in Sources */,
 				02E64D252A9A370300B0DF8E /* LeastCommonMultiple.swift in Sources */,
