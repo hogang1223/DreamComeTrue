@@ -81,6 +81,7 @@
 		02F31B812A18A1D500312152 /* FourArithmeticOperations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F31B802A18A1D500312152 /* FourArithmeticOperations.swift */; };
 		02F42D452AA5F94500A6A58F /* RunningRace.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F42D442AA5F94500A6A58F /* RunningRace.swift */; };
 		02F71C252AAA1B1200CAB6F5 /* AddHidingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F71C242AAA1B1200CAB6F5 /* AddHidingNumber.swift */; };
+		02F71C272AAA1BD900CAB6F5 /* safeArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F71C262AAA1BD900CAB6F5 /* safeArea.swift */; };
 		BD4BE9462A7B63F600D58888 /* ControlZ.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9452A7B63F600D58888 /* ControlZ.swift */; };
 		BD4BE9492A7B643C00D58888 /* LengthOfArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE9482A7B643C00D58888 /* LengthOfArray.swift */; };
 		BD4BE94B2A7B646B00D58888 /* RemoveDuplicationString.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4BE94A2A7B646B00D58888 /* RemoveDuplicationString.swift */; };
@@ -195,6 +196,7 @@
 		02F31B802A18A1D500312152 /* FourArithmeticOperations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourArithmeticOperations.swift; sourceTree = "<group>"; };
 		02F42D442AA5F94500A6A58F /* RunningRace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunningRace.swift; sourceTree = "<group>"; };
 		02F71C242AAA1B1200CAB6F5 /* AddHidingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddHidingNumber.swift; sourceTree = "<group>"; };
+		02F71C262AAA1BD900CAB6F5 /* safeArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = safeArea.swift; sourceTree = "<group>"; };
 		BD4BE9452A7B63F600D58888 /* ControlZ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlZ.swift; sourceTree = "<group>"; };
 		BD4BE9482A7B643C00D58888 /* LengthOfArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LengthOfArray.swift; sourceTree = "<group>"; };
 		BD4BE94A2A7B646B00D58888 /* RemoveDuplicationString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicationString.swift; sourceTree = "<group>"; };
@@ -476,6 +478,7 @@
 			isa = PBXGroup;
 			children = (
 				02F71C242AAA1B1200CAB6F5 /* AddHidingNumber.swift */,
+				02F71C262AAA1BD900CAB6F5 /* safeArea.swift */,
 			);
 			path = Day21;
 			sourceTree = "<group>";
@@ -671,6 +674,7 @@
 				0211B0772A7FBCE500C043A0 /* FineRemainderOne.swift in Sources */,
 				02BF5B2A2A793B3600BE650C /* PrintAge.swift in Sources */,
 				02BBFBFE2AA8B455002F5050 /* DivisibleArrayOfNumbers.swift in Sources */,
+				02F71C272AAA1BD900CAB6F5 /* safeArea.swift in Sources */,
 				02ABE9CF2A7A100E00B10E0F /* MakeMaxNumber1.swift in Sources */,
 				0211B0752A7FBC1100C043A0 /* ChangeLetterToNumber.swift in Sources */,
 				02E64D252A9A370300B0DF8E /* LeastCommonMultiple.swift in Sources */,
