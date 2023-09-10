@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = solution([5, 9, 7, 10], 5)
+let result = solution([4,7,12], [true,false,true])
 print(result)
