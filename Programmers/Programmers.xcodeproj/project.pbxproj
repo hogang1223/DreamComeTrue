@@ -72,6 +72,8 @@
 		02C3D5BB2A8CAFC300B03DED /* CorrectParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C3D5BA2A8CAFC300B03DED /* CorrectParentheses.swift */; };
 		02C4034F2A8391F50081B376 /* MaxAndMin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C4034E2A8391F50081B376 /* MaxAndMin.swift */; };
 		02C403512A8392300081B376 /* makeJandenCaseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C403502A8392300081B376 /* makeJandenCaseString.swift */; };
+		02C53B552AB1F07D006D23AA /* CutArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C53B542AB1F07D006D23AA /* CutArray.swift */; };
+		02C53B572AB1FD1D006D23AA /* CenterLetter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C53B562AB1FD1D006D23AA /* CenterLetter.swift */; };
 		02C73DF22AB091B20084FFD2 /* rotateParenthesis.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C73DF12AB091B20084FFD2 /* rotateParenthesis.swift */; };
 		02CD48422A98E4F0002B8233 /* ExpectedMatchList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CD48412A98E4F0002B8233 /* ExpectedMatchList.swift */; };
 		02CDC7B82AA360C000D5590F /* CountOfConsecutivePartialSequenceSums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CDC7B72AA360BF00D5590F /* CountOfConsecutivePartialSequenceSums.swift */; };
@@ -190,6 +192,8 @@
 		02C3D5BA2A8CAFC300B03DED /* CorrectParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorrectParentheses.swift; sourceTree = "<group>"; };
 		02C4034E2A8391F50081B376 /* MaxAndMin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxAndMin.swift; sourceTree = "<group>"; };
 		02C403502A8392300081B376 /* makeJandenCaseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = makeJandenCaseString.swift; sourceTree = "<group>"; };
+		02C53B542AB1F07D006D23AA /* CutArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CutArray.swift; sourceTree = "<group>"; };
+		02C53B562AB1FD1D006D23AA /* CenterLetter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CenterLetter.swift; sourceTree = "<group>"; };
 		02C73DF12AB091B20084FFD2 /* rotateParenthesis.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rotateParenthesis.swift; sourceTree = "<group>"; };
 		02CD48412A98E4F0002B8233 /* ExpectedMatchList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpectedMatchList.swift; sourceTree = "<group>"; };
 		02CDC7B72AA360BF00D5590F /* CountOfConsecutivePartialSequenceSums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountOfConsecutivePartialSequenceSums.swift; sourceTree = "<group>"; };
@@ -267,6 +271,7 @@
 				02DB76752AA748BD00B6A454 /* ScoreOfMemory.swift */,
 				02BBFBFD2AA8B455002F5050 /* DivisibleArrayOfNumbers.swift */,
 				026A71FF2AADF9AA0018E379 /* AddYinAndYang.swift */,
+				02C53B562AB1FD1D006D23AA /* CenterLetter.swift */,
 			);
 			path = LevelOne;
 			sourceTree = "<group>";
@@ -416,6 +421,7 @@
 				0213BB972A9E254B0014F46A /* PickTangerine.swift */,
 				02CDC7B72AA360BF00D5590F /* CountOfConsecutivePartialSequenceSums.swift */,
 				02C73DF12AB091B20084FFD2 /* rotateParenthesis.swift */,
+				02C53B542AB1F07D006D23AA /* CutArray.swift */,
 			);
 			path = LevelTwo;
 			sourceTree = "<group>";
@@ -630,6 +636,7 @@
 				02F42D452AA5F94500A6A58F /* RunningRace.swift in Sources */,
 				0264A42D2A7E92F400BAF269 /* CountOfPAndY.swift in Sources */,
 				02BF5B262A793AB100BE650C /* DiscountClothingStore.swift in Sources */,
+				02C53B552AB1F07D006D23AA /* CutArray.swift in Sources */,
 				BD4BE9552A7B653E00D58888 /* UppercaseLowercase.swift in Sources */,
 				02F31B742A189E1B00312152 /* main.swift in Sources */,
 				BD4BE9852A7CFD7200D58888 /* FindNumber.swift in Sources */,
@@ -726,6 +733,7 @@
 				02ABE9D32A7A10BF00B10E0F /* RemoveVowel.swift in Sources */,
 				02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */,
 				BD4BE98B2A7CFDDE00D58888 /* OXQuiz.swift in Sources */,
+				02C53B572AB1FD1D006D23AA /* CenterLetter.swift in Sources */,
 				02C3D5BB2A8CAFC300B03DED /* CorrectParentheses.swift in Sources */,
 				02ABE9AB2A7A0AF400B10E0F /* RemoveSomeString.swift in Sources */,
 				BD4BE94F2A7B64FD00D58888 /* NearestNumber.swift in Sources */,
