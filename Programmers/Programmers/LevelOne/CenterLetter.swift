@@ -20,7 +20,7 @@ import Foundation
  "qwer"    "we"
  */
 
-func solution(_ s:String) -> String {
+func CenterLetter(_ s:String) -> String {
     let letter = s.map { String($0) }
     let center = s.count / 2
     return s.count % 2 == 0 ? letter[center - 1] + letter[center] : letter[center]
