@@ -42,6 +42,7 @@
 		02ABE9D52A7A10D400B10E0F /* ArrangeArray1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9D42A7A10D400B10E0F /* ArrangeArray1.swift */; };
 		02ABE9D72A7A10DE00B10E0F /* SumOfHideNumbers1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9D62A7A10DE00B10E0F /* SumOfHideNumbers1.swift */; };
 		02ABE9D92A7A10F400B10E0F /* FactorizationOfFactors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9D82A7A10F400B10E0F /* FactorizationOfFactors.swift */; };
+		02B9C0F92AB48E0B00180A6A /* discountEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B9C0F82AB48E0B00180A6A /* discountEvent.swift */; };
 		02BBFBFE2AA8B455002F5050 /* DivisibleArrayOfNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BBFBFD2AA8B455002F5050 /* DivisibleArrayOfNumbers.swift */; };
 		02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */; };
 		02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */; };
@@ -162,6 +163,7 @@
 		02ABE9D42A7A10D400B10E0F /* ArrangeArray1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrangeArray1.swift; sourceTree = "<group>"; };
 		02ABE9D62A7A10DE00B10E0F /* SumOfHideNumbers1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfHideNumbers1.swift; sourceTree = "<group>"; };
 		02ABE9D82A7A10F400B10E0F /* FactorizationOfFactors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactorizationOfFactors.swift; sourceTree = "<group>"; };
+		02B9C0F82AB48E0B00180A6A /* discountEvent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = discountEvent.swift; sourceTree = "<group>"; };
 		02BBFBFD2AA8B455002F5050 /* DivisibleArrayOfNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivisibleArrayOfNumbers.swift; sourceTree = "<group>"; };
 		02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoNumbers.swift; sourceTree = "<group>"; };
 		02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareTwoNumbers.swift; sourceTree = "<group>"; };
@@ -422,6 +424,7 @@
 				02CDC7B72AA360BF00D5590F /* CountOfConsecutivePartialSequenceSums.swift */,
 				02C73DF12AB091B20084FFD2 /* rotateParenthesis.swift */,
 				02C53B542AB1F07D006D23AA /* CutArray.swift */,
+				02B9C0F82AB48E0B00180A6A /* discountEvent.swift */,
 			);
 			path = LevelTwo;
 			sourceTree = "<group>";
@@ -637,6 +640,7 @@
 				0264A42D2A7E92F400BAF269 /* CountOfPAndY.swift in Sources */,
 				02BF5B262A793AB100BE650C /* DiscountClothingStore.swift in Sources */,
 				02C53B552AB1F07D006D23AA /* CutArray.swift in Sources */,
+				02B9C0F92AB48E0B00180A6A /* discountEvent.swift in Sources */,
 				BD4BE9552A7B653E00D58888 /* UppercaseLowercase.swift in Sources */,
 				02F31B742A189E1B00312152 /* main.swift in Sources */,
 				BD4BE9852A7CFD7200D58888 /* FindNumber.swift in Sources */,
