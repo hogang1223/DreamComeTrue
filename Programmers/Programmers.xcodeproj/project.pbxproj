@@ -44,6 +44,7 @@
 		02ABE9D92A7A10F400B10E0F /* FactorizationOfFactors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9D82A7A10F400B10E0F /* FactorizationOfFactors.swift */; };
 		02B9C0F92AB48E0B00180A6A /* discountEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B9C0F82AB48E0B00180A6A /* discountEvent.swift */; };
 		02BBFBFE2AA8B455002F5050 /* DivisibleArrayOfNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BBFBFD2AA8B455002F5050 /* DivisibleArrayOfNumbers.swift */; };
+		02BCB8E62AB6A32600678405 /* removeMinimumNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BCB8E52AB6A32600678405 /* removeMinimumNumber.swift */; };
 		02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */; };
 		02BF5B112A79345600BE650C /* CompareTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */; };
 		02BF5B132A79356000BE650C /* AdditionOfFractions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B122A79356000BE650C /* AdditionOfFractions.swift */; };
@@ -165,6 +166,7 @@
 		02ABE9D82A7A10F400B10E0F /* FactorizationOfFactors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactorizationOfFactors.swift; sourceTree = "<group>"; };
 		02B9C0F82AB48E0B00180A6A /* discountEvent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = discountEvent.swift; sourceTree = "<group>"; };
 		02BBFBFD2AA8B455002F5050 /* DivisibleArrayOfNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivisibleArrayOfNumbers.swift; sourceTree = "<group>"; };
+		02BCB8E52AB6A32600678405 /* removeMinimumNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = removeMinimumNumber.swift; sourceTree = "<group>"; };
 		02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoNumbers.swift; sourceTree = "<group>"; };
 		02BF5B102A79345600BE650C /* CompareTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareTwoNumbers.swift; sourceTree = "<group>"; };
 		02BF5B122A79356000BE650C /* AdditionOfFractions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdditionOfFractions.swift; sourceTree = "<group>"; };
@@ -274,6 +276,7 @@
 				02BBFBFD2AA8B455002F5050 /* DivisibleArrayOfNumbers.swift */,
 				026A71FF2AADF9AA0018E379 /* AddYinAndYang.swift */,
 				02C53B562AB1FD1D006D23AA /* CenterLetter.swift */,
+				02BCB8E52AB6A32600678405 /* removeMinimumNumber.swift */,
 			);
 			path = LevelOne;
 			sourceTree = "<group>";
@@ -693,6 +696,7 @@
 				02C3D5B92A8CADC600B03DED /* MakeMinValue.swift in Sources */,
 				BD4BE9872A7CFD9800D58888 /* ChooseMultipleOfN.swift in Sources */,
 				02ABE9AF2A7A0B9700B10E0F /* LambSkewers.swift in Sources */,
+				02BCB8E62AB6A32600678405 /* removeMinimumNumber.swift in Sources */,
 				02BF5B332A793C8900BE650C /* EvenOddCount.swift in Sources */,
 				02ABE9C32A7A0F0800B10E0F /* getCoordinatesOfPoint.swift in Sources */,
 				0264A42B2A7E91EC00BAF269 /* makeReverseNumberArray.swift in Sources */,
