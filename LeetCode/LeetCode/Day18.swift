@@ -7,6 +7,7 @@
 
 import Foundation
 
+
 // 506. Relative Ranks
 struct RelativeRanks {
     func findRelativeRanks(_ score: [Int]) -> [String] {

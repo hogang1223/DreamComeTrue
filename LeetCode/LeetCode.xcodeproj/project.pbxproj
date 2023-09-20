@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0202EF972AB9B5FC005B98AC /* HappyStudents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0202EF962AB9B5FC005B98AC /* HappyStudents.swift */; };
 		02BDFD422AB894E9001920C3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BDFD412AB894E9001920C3 /* main.swift */; };
 		02BDFD492AB89516001920C3 /* Day18.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BDFD482AB89515001920C3 /* Day18.swift */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0202EF962AB9B5FC005B98AC /* HappyStudents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HappyStudents.swift; sourceTree = "<group>"; };
 		02BDFD3E2AB894E9001920C3 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		02BDFD412AB894E9001920C3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		02BDFD482AB89515001920C3 /* Day18.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day18.swift; sourceTree = "<group>"; };
@@ -40,6 +42,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0202EF942AB9B5D4005B98AC /* Easy */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Easy;
+			sourceTree = "<group>";
+		};
+		0202EF952AB9B5E5005B98AC /* Medium */ = {
+			isa = PBXGroup;
+			children = (
+				0202EF962AB9B5FC005B98AC /* HappyStudents.swift */,
+			);
+			path = Medium;
+			sourceTree = "<group>";
+		};
 		02BDFD352AB894E9001920C3 = {
 			isa = PBXGroup;
 			children = (
@@ -59,6 +76,8 @@
 		02BDFD402AB894E9001920C3 /* LeetCode */ = {
 			isa = PBXGroup;
 			children = (
+				0202EF952AB9B5E5005B98AC /* Medium */,
+				0202EF942AB9B5D4005B98AC /* Easy */,
 				02BDFD412AB894E9001920C3 /* main.swift */,
 				02BDFD482AB89515001920C3 /* Day18.swift */,
 			);
@@ -125,6 +144,7 @@
 			files = (
 				02BDFD422AB894E9001920C3 /* main.swift in Sources */,
 				02BDFD492AB89516001920C3 /* Day18.swift in Sources */,
+				0202EF972AB9B5FC005B98AC /* HappyStudents.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
