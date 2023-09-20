@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = IslandPerimeter().islandPerimeter([[0,1,0,0],[1,1,1,0],[0,1,0,0],[1,1,0,0]])
+let result = ReverseVowelsOfString().reverseVowels("aA")
 print(result)
