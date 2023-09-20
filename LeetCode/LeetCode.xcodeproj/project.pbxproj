@@ -12,6 +12,7 @@
 		02EC3D2E2ABAFB5500EEE708 /* RelativeRanks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EC3D2D2ABAFB5500EEE708 /* RelativeRanks.swift */; };
 		02EC3D302ABAFB7500EEE708 /* SummaryRanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EC3D2F2ABAFB7500EEE708 /* SummaryRanges.swift */; };
 		02EC3D322ABAFBA800EEE708 /* BinarySearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EC3D312ABAFBA800EEE708 /* BinarySearch.swift */; };
+		02EC3D342ABAFFAC00EEE708 /* IslandPerimeter .swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EC3D332ABAFFAC00EEE708 /* IslandPerimeter .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		02EC3D2D2ABAFB5500EEE708 /* RelativeRanks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelativeRanks.swift; sourceTree = "<group>"; };
 		02EC3D2F2ABAFB7500EEE708 /* SummaryRanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryRanges.swift; sourceTree = "<group>"; };
 		02EC3D312ABAFBA800EEE708 /* BinarySearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearch.swift; sourceTree = "<group>"; };
+		02EC3D332ABAFFAC00EEE708 /* IslandPerimeter .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "IslandPerimeter .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 				02EC3D2D2ABAFB5500EEE708 /* RelativeRanks.swift */,
 				02EC3D2F2ABAFB7500EEE708 /* SummaryRanges.swift */,
 				02EC3D312ABAFBA800EEE708 /* BinarySearch.swift */,
+				02EC3D332ABAFFAC00EEE708 /* IslandPerimeter .swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				02BDFD422AB894E9001920C3 /* main.swift in Sources */,
+				02EC3D342ABAFFAC00EEE708 /* IslandPerimeter .swift in Sources */,
 				02EC3D2E2ABAFB5500EEE708 /* RelativeRanks.swift in Sources */,
 				02EC3D322ABAFBA800EEE708 /* BinarySearch.swift in Sources */,
 				0202EF972AB9B5FC005B98AC /* HappyStudents.swift in Sources */,
