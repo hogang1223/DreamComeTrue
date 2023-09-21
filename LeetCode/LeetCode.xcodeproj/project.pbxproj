@@ -14,6 +14,7 @@
 		02EC3D302ABAFB7500EEE708 /* SummaryRanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EC3D2F2ABAFB7500EEE708 /* SummaryRanges.swift */; };
 		02EC3D322ABAFBA800EEE708 /* BinarySearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EC3D312ABAFBA800EEE708 /* BinarySearch.swift */; };
 		02EC3D342ABAFFAC00EEE708 /* IslandPerimeter .swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EC3D332ABAFFAC00EEE708 /* IslandPerimeter .swift */; };
+		02F7E0042ABC74110087D84B /* TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F7E0032ABC74110087D84B /* TwoSum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +38,7 @@
 		02EC3D2F2ABAFB7500EEE708 /* SummaryRanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryRanges.swift; sourceTree = "<group>"; };
 		02EC3D312ABAFBA800EEE708 /* BinarySearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearch.swift; sourceTree = "<group>"; };
 		02EC3D332ABAFFAC00EEE708 /* IslandPerimeter .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "IslandPerimeter .swift"; sourceTree = "<group>"; };
+		02F7E0032ABC74110087D84B /* TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoSum.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				02EC3D312ABAFBA800EEE708 /* BinarySearch.swift */,
 				02EC3D332ABAFFAC00EEE708 /* IslandPerimeter .swift */,
 				02C0940A2ABB0DAF004DC55C /* ReverseVowelsOfString.swift */,
+				02F7E0032ABC74110087D84B /* TwoSum.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 				02EC3D322ABAFBA800EEE708 /* BinarySearch.swift in Sources */,
 				02C0940B2ABB0DAF004DC55C /* ReverseVowelsOfString.swift in Sources */,
 				0202EF972AB9B5FC005B98AC /* HappyStudents.swift in Sources */,
+				02F7E0042ABC74110087D84B /* TwoSum.swift in Sources */,
 				02EC3D302ABAFB7500EEE708 /* SummaryRanges.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

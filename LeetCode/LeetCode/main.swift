@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = ReverseVowelsOfString().reverseVowels("aA")
+let result = TwoSum().twoSum([3,3], 6)
 print(result)
