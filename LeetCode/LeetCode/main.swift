@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = TwoSum().twoSum([3,3], 6)
+let result = ArrangingCoins().arrangeCoins(3)
 print(result)
