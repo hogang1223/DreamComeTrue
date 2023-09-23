@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = solution([4,3,2,1])
+let result = PlaceStringsInDescendingOrder("Abcdefg")
 print(result)
