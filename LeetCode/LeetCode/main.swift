@@ -7,5 +7,10 @@
 
 import Foundation
 
-let result = ArrangingCoins().arrangeCoins(3)
-print(result)
+let igcdll = InsertGreatestCommonDivisorsinLinkedList()
+
+
+let head = igcdll.arrToNode(arr: [8])
+let result =  igcdll.insertGreatestCommonDivisors(head)
+let arr = igcdll.nodeToArray(node: result)
+print(arr)
