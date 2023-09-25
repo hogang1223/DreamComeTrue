@@ -11,6 +11,7 @@
 		02B852EC2AC034BE005D7E9A /* FindTheIndexOfTheFirstOccurrenceInString .swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B852EB2AC034BE005D7E9A /* FindTheIndexOfTheFirstOccurrenceInString .swift */; };
 		02BDFD422AB894E9001920C3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BDFD412AB894E9001920C3 /* main.swift */; };
 		02C0940B2ABB0DAF004DC55C /* ReverseVowelsOfString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C0940A2ABB0DAF004DC55C /* ReverseVowelsOfString.swift */; };
+		02CD81382AC1853600D314FF /* IsSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CD81372AC1853600D314FF /* IsSubsequence.swift */; };
 		02CE02D82ABDB60D00036BC8 /* InsertGreatestCommonDivisorsinLinkedList .swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CE02D72ABDB60D00036BC8 /* InsertGreatestCommonDivisorsinLinkedList .swift */; };
 		02CE02DA2ABDB95200036BC8 /* ArrangingCoins .swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CE02D92ABDB95200036BC8 /* ArrangingCoins .swift */; };
 		02EC3D2E2ABAFB5500EEE708 /* RelativeRanks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EC3D2D2ABAFB5500EEE708 /* RelativeRanks.swift */; };
@@ -38,6 +39,7 @@
 		02BDFD3E2AB894E9001920C3 /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		02BDFD412AB894E9001920C3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		02C0940A2ABB0DAF004DC55C /* ReverseVowelsOfString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseVowelsOfString.swift; sourceTree = "<group>"; };
+		02CD81372AC1853600D314FF /* IsSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsSubsequence.swift; sourceTree = "<group>"; };
 		02CE02D72ABDB60D00036BC8 /* InsertGreatestCommonDivisorsinLinkedList .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "InsertGreatestCommonDivisorsinLinkedList .swift"; sourceTree = "<group>"; };
 		02CE02D92ABDB95200036BC8 /* ArrangingCoins .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ArrangingCoins .swift"; sourceTree = "<group>"; };
 		02EC3D2D2ABAFB5500EEE708 /* RelativeRanks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RelativeRanks.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				02F7E0032ABC74110087D84B /* TwoSum.swift */,
 				02CE02D92ABDB95200036BC8 /* ArrangingCoins .swift */,
 				02B852EB2AC034BE005D7E9A /* FindTheIndexOfTheFirstOccurrenceInString .swift */,
+				02CD81372AC1853600D314FF /* IsSubsequence.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				02CE02D82ABDB60D00036BC8 /* InsertGreatestCommonDivisorsinLinkedList .swift in Sources */,
 				02EC3D342ABAFFAC00EEE708 /* IslandPerimeter .swift in Sources */,
 				02EC3D2E2ABAFB5500EEE708 /* RelativeRanks.swift in Sources */,
+				02CD81382AC1853600D314FF /* IsSubsequence.swift in Sources */,
 				02EC3D322ABAFBA800EEE708 /* BinarySearch.swift in Sources */,
 				02C0940B2ABB0DAF004DC55C /* ReverseVowelsOfString.swift in Sources */,
 				0202EF972AB9B5FC005B98AC /* HappyStudents.swift in Sources */,
