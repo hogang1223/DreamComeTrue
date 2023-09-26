@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = FindTheIndexOfTheFirstOccurrenceInString().strStr("mississippi", "issi")
+let result = ReverseString().reverseString("hello")
 print(result)
