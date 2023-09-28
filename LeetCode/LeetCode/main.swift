@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = ReverseString().reverseString("hello")
+let result = SortIntegersByBits().sortByBits([1024,512,256,128,64,32,16,8,4,2,1])
 print(result)
