@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = SortIntegersByBits().sortByBits([1024,512,256,128,64,32,16,8,4,2,1])
+let result = LengthOfLastWord().lengthOfLastWord("Hello World")
 print(result)
