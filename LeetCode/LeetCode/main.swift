@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = MajorityElement().majorityElement([3,2,3])
+let result = SingleNumber().singleNumber([4,1,1,2,2])
 print(result)
