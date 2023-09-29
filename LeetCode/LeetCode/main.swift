@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = LengthOfLastWord().lengthOfLastWord("Hello World")
+let result = MajorityElement().majorityElement([3,2,3])
 print(result)
