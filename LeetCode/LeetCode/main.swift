@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = SingleNumber().singleNumber([4,1,1,2,2])
+let result = ContainsDuplicate2().containsNearbyDuplicate([1,2,3,1,2,3], 2)
 print(result)
