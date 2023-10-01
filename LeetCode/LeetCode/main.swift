@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = ContainsDuplicate2().containsNearbyDuplicate([1,2,3,1,2,3], 2)
+let result = PlusOne().plusOne([1,9,9])
 print(result)
