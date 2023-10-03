@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = PlaceStringsInDescendingOrder("Abcdefg")
+let result = Subaksubaksu(7)
 print(result)
