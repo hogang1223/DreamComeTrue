@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = PlusOne().plusOne([1,9,9])
+let result = PalindromeNumber().isPalindrome(7)
 print(result)
