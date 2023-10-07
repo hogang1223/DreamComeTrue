@@ -83,6 +83,7 @@
 		02D6982F2ABED9F6006A113F /* PlaceStringsInDescendingOrder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D6982E2ABED9F6006A113F /* PlaceStringsInDescendingOrder.swift */; };
 		02DB76762AA748BD00B6A454 /* ScoreOfMemory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DB76752AA748BD00B6A454 /* ScoreOfMemory.swift */; };
 		02E64D252A9A370300B0DF8E /* LeastCommonMultiple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02E64D242A9A370300B0DF8E /* LeastCommonMultiple.swift */; };
+		02E938F82AD19F8F00E76BC2 /* BaseOfString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02E938F72AD19F8F00E76BC2 /* BaseOfString.swift */; };
 		02ED23E92A9241F100A292BB /* FibonacciNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ED23E82A9241F100A292BB /* FibonacciNumbers.swift */; };
 		02ED23EB2A92441B00A292BB /* RemoveCouples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ED23EA2A92441B00A292BB /* RemoveCouples.swift */; };
 		02F31B742A189E1B00312152 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F31B732A189E1B00312152 /* main.swift */; };
@@ -207,6 +208,7 @@
 		02D6982E2ABED9F6006A113F /* PlaceStringsInDescendingOrder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceStringsInDescendingOrder.swift; sourceTree = "<group>"; };
 		02DB76752AA748BD00B6A454 /* ScoreOfMemory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreOfMemory.swift; sourceTree = "<group>"; };
 		02E64D242A9A370300B0DF8E /* LeastCommonMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeastCommonMultiple.swift; sourceTree = "<group>"; };
+		02E938F72AD19F8F00E76BC2 /* BaseOfString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseOfString.swift; sourceTree = "<group>"; };
 		02ED23E82A9241F100A292BB /* FibonacciNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FibonacciNumbers.swift; sourceTree = "<group>"; };
 		02ED23EA2A92441B00A292BB /* RemoveCouples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveCouples.swift; sourceTree = "<group>"; };
 		02F31B702A189E1B00312152 /* Programmers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Programmers; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -283,6 +285,7 @@
 				02BCB8E52AB6A32600678405 /* removeMinimumNumber.swift */,
 				02D6982E2ABED9F6006A113F /* PlaceStringsInDescendingOrder.swift */,
 				02C765862ACC590F00929D3E /* Subaksubaksu.swift */,
+				02E938F72AD19F8F00E76BC2 /* BaseOfString.swift */,
 			);
 			path = LevelOne;
 			sourceTree = "<group>";
@@ -734,6 +737,7 @@
 				02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */,
 				02BF5B212A79398F00BE650C /* SharePizza.swift in Sources */,
 				BD4BE9932A7D03DB00D58888 /* rangeString2.swift in Sources */,
+				02E938F82AD19F8F00E76BC2 /* BaseOfString.swift in Sources */,
 				02BF5B352A793CC800BE650C /* PrintStringRepeating.swift in Sources */,
 				02BF5B3A2A793E7300BE650C /* PushStrings.swift in Sources */,
 				02ABE9B92A7A0D1200B10E0F /* OrderedPairCount.swift in Sources */,

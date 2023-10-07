@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = Subaksubaksu(7)
+let result = BaseOfString("1234")
 print(result)
