@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = BaseOfString("1234")
+let result = makeWeirdWord("try hello world")
 print(result)

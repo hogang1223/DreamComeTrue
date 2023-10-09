@@ -43,6 +43,7 @@
 		02ABE9D72A7A10DE00B10E0F /* SumOfHideNumbers1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9D62A7A10DE00B10E0F /* SumOfHideNumbers1.swift */; };
 		02ABE9D92A7A10F400B10E0F /* FactorizationOfFactors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ABE9D82A7A10F400B10E0F /* FactorizationOfFactors.swift */; };
 		02B9C0F92AB48E0B00180A6A /* discountEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B9C0F82AB48E0B00180A6A /* discountEvent.swift */; };
+		02BA7DF42AD42F7500517FC9 /* makeWeirdWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BA7DF32AD42F7500517FC9 /* makeWeirdWord.swift */; };
 		02BBFBFE2AA8B455002F5050 /* DivisibleArrayOfNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BBFBFD2AA8B455002F5050 /* DivisibleArrayOfNumbers.swift */; };
 		02BCB8E62AB6A32600678405 /* removeMinimumNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BCB8E52AB6A32600678405 /* removeMinimumNumber.swift */; };
 		02BF5B0F2A79341600BE650C /* DivideTwoNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */; };
@@ -168,6 +169,7 @@
 		02ABE9D62A7A10DE00B10E0F /* SumOfHideNumbers1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumOfHideNumbers1.swift; sourceTree = "<group>"; };
 		02ABE9D82A7A10F400B10E0F /* FactorizationOfFactors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactorizationOfFactors.swift; sourceTree = "<group>"; };
 		02B9C0F82AB48E0B00180A6A /* discountEvent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = discountEvent.swift; sourceTree = "<group>"; };
+		02BA7DF32AD42F7500517FC9 /* makeWeirdWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = makeWeirdWord.swift; sourceTree = "<group>"; };
 		02BBFBFD2AA8B455002F5050 /* DivisibleArrayOfNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivisibleArrayOfNumbers.swift; sourceTree = "<group>"; };
 		02BCB8E52AB6A32600678405 /* removeMinimumNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = removeMinimumNumber.swift; sourceTree = "<group>"; };
 		02BF5B0E2A79341600BE650C /* DivideTwoNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivideTwoNumbers.swift; sourceTree = "<group>"; };
@@ -286,6 +288,7 @@
 				02D6982E2ABED9F6006A113F /* PlaceStringsInDescendingOrder.swift */,
 				02C765862ACC590F00929D3E /* Subaksubaksu.swift */,
 				02E938F72AD19F8F00E76BC2 /* BaseOfString.swift */,
+				02BA7DF32AD42F7500517FC9 /* makeWeirdWord.swift */,
 			);
 			path = LevelOne;
 			sourceTree = "<group>";
@@ -669,6 +672,7 @@
 				0213BB9D2AA0C4180014F46A /* CharacterCoordinates.swift in Sources */,
 				02ABE9C12A7A0DF800B10E0F /* CaseOfShareBeads.swift in Sources */,
 				02BF5B312A793C0900BE650C /* PrintRightTriangle.swift in Sources */,
+				02BA7DF42AD42F7500517FC9 /* makeWeirdWord.swift in Sources */,
 				02ABE9D72A7A10DE00B10E0F /* SumOfHideNumbers1.swift in Sources */,
 				02CD48422A98E4F0002B8233 /* ExpectedMatchList.swift in Sources */,
 				02BF5B282A793AEF00BE650C /* IceAmericano.swift in Sources */,
