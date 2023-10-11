@@ -7,5 +7,5 @@
 
 import Foundation
 
-let result = PalindromeNumber().isPalindrome(7)
+let result = RotateFunction().maxRotateFunction([4,3,2,6])
 print(result)
