@@ -20,6 +20,7 @@
 		02BFC7F82AC84F3400756D1F /* ContainsDuplicate2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BFC7F72AC84F3400756D1F /* ContainsDuplicate2.swift */; };
 		02C0940B2ABB0DAF004DC55C /* ReverseVowelsOfString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C0940A2ABB0DAF004DC55C /* ReverseVowelsOfString.swift */; };
 		02C584A82AC5B31F00848BC9 /* SortIntegersByBits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C584A72AC5B31F00848BC9 /* SortIntegersByBits.swift */; };
+		02CC98CF2ADED2820089B089 /* ShuffleTheArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CC98CE2ADED2820089B089 /* ShuffleTheArray.swift */; };
 		02CD81382AC1853600D314FF /* IsSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CD81372AC1853600D314FF /* IsSubsequence.swift */; };
 		02CE02D82ABDB60D00036BC8 /* InsertGreatestCommonDivisorsinLinkedList .swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CE02D72ABDB60D00036BC8 /* InsertGreatestCommonDivisorsinLinkedList .swift */; };
 		02CE02DA2ABDB95200036BC8 /* ArrangingCoins .swift in Sources */ = {isa = PBXBuildFile; fileRef = 02CE02D92ABDB95200036BC8 /* ArrangingCoins .swift */; };
@@ -59,6 +60,7 @@
 		02BFC7F72AC84F3400756D1F /* ContainsDuplicate2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainsDuplicate2.swift; sourceTree = "<group>"; };
 		02C0940A2ABB0DAF004DC55C /* ReverseVowelsOfString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseVowelsOfString.swift; sourceTree = "<group>"; };
 		02C584A72AC5B31F00848BC9 /* SortIntegersByBits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortIntegersByBits.swift; sourceTree = "<group>"; };
+		02CC98CE2ADED2820089B089 /* ShuffleTheArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShuffleTheArray.swift; sourceTree = "<group>"; };
 		02CD81372AC1853600D314FF /* IsSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IsSubsequence.swift; sourceTree = "<group>"; };
 		02CE02D72ABDB60D00036BC8 /* InsertGreatestCommonDivisorsinLinkedList .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "InsertGreatestCommonDivisorsinLinkedList .swift"; sourceTree = "<group>"; };
 		02CE02D92ABDB95200036BC8 /* ArrangingCoins .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ArrangingCoins .swift"; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				02BFC7F72AC84F3400756D1F /* ContainsDuplicate2.swift */,
 				02BCB4B52AC9A5D9006BC12A /* PlusOne.swift */,
 				02EF632D2ACD7C570037F64F /* PalindromeNumber.swift */,
+				02CC98CE2ADED2820089B089 /* ShuffleTheArray.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -215,6 +218,7 @@
 				02BFC7F82AC84F3400756D1F /* ContainsDuplicate2.swift in Sources */,
 				02C0940B2ABB0DAF004DC55C /* ReverseVowelsOfString.swift in Sources */,
 				02D686C52ADD5AD000470C44 /* JumpGame2.swift in Sources */,
+				02CC98CF2ADED2820089B089 /* ShuffleTheArray.swift in Sources */,
 				02B904CA2AC3056900852D25 /* ReverseString.swift in Sources */,
 				020A759D2AC6A559008292B4 /* LengthOfLastWord .swift in Sources */,
 				02B2A6512AD5A2FC001923C7 /* RotateFunction.swift in Sources */,
