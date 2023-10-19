@@ -11,13 +11,23 @@ import Foundation
 struct WordPattern {
     func wordPattern(_ pattern: String, _ s: String) -> Bool {
         let letters = s.split(separator: " ")
-        var dic = [Character: String]()
-        for (i, p) in pattern.enumerated() {
-            if let l = dic[p] {
-                if l != String(letters[i]) { return false }
+        guard letters.count == pattern.count else {
+             return false
+        }
+        
+        var sDic = [Substring: Character]()
+        var pDic = [Character: Substring]()
+        
+        for (p, l) in zip(pattern, letters) {
+            if let newP = sDic[l], newP != p {
+                return false
+            }
+            else if let newL = pDic[p], newL != l {
+                return false
             }
             else {
-                dic[p] = String(letters[i])
+                sDic[l] = p
+                pDic[p] = l
             }
         }
         return true
